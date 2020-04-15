@@ -1,0 +1,2184 @@
+2019-04-20 23:48:40 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-20 23:48:40 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-20 23:48:44 INFO  BaseClass:54 - Maximize the browser
+2019-04-20 23:48:45 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-20 23:49:28 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-20 23:49:29 INFO  BaseClass:59 - Go to CEIPAL Login Page
+2019-04-20 23:49:29 INFO  BaseClass:61 - Login with Admin credentails
+2019-04-20 23:49:29 INFO  BaseClass:65 - input Username :ceipal87@gmail.com
+2019-04-20 23:49:29 INFO  BaseClass:67 - click on Next Button
+2019-04-20 23:49:30 INFO  BaseClass:71 - input Password :Admin@123#
+2019-04-20 23:49:30 INFO  BaseClass:73 - click on Sigin Button
+2019-04-20 23:49:45 INFO  BaseClass:76 - Verify that User is logged in successfully to Home Page
+2019-04-20 23:49:45 INFO  BaseClass:82 - Click on User Account
+2019-04-20 23:49:45 INFO  BaseClass:86 - Verify the User Context
+2019-04-20 23:49:45 INFO  BaseClass:88 - User Type is:Administrator
+2019-04-20 23:49:45 INFO  BaseClass:96 - Click on setup button
+2019-04-20 23:49:47 INFO  BaseClass:101 - Input the search valueaccess
+2019-04-20 23:49:49 INFO  BaseClass:105 - Click on access control link
+2019-04-20 23:49:53 INFO  BaseClass:109 - Verify the user is navigated to Access control Page
+2019-04-20 23:49:53 INFO  BaseClass:74 - Select Security Permission from the dropdown
+2019-04-20 23:49:53 INFO  BaseClass:116 - Verify the security permission drop down
+2019-04-20 23:49:53 INFO  BaseClass:124 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-20 23:49:53 INFO  BaseClass:124 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-20 23:49:53 INFO  BaseClass:127 - Verify that user clicked on Job posting value
+2019-04-20 23:49:58 INFO  BaseClass:124 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-20 23:49:58 INFO  BaseClass:124 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-20 23:49:58 INFO  BaseClass:124 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-20 23:49:58 INFO  BaseClass:124 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-20 23:49:58 INFO  BaseClass:124 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-20 23:49:58 INFO  BaseClass:124 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-20 23:49:58 INFO  BaseClass:124 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-20 23:49:58 INFO  BaseClass:124 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-20 23:49:58 INFO  BaseClass:124 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-20 23:49:58 INFO  BaseClass:124 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-20 23:49:58 INFO  BaseClass:139 - Verify that user role is selected from the Access control Page
+2019-04-20 23:50:01 INFO  BaseClass:146 - Verify user role from the Access control table and it is :HR Manager
+2019-04-20 23:50:01 INFO  BaseClass:146 - Verify user role from the Access control table and it is :Hiring Manager
+2019-04-20 23:50:01 INFO  BaseClass:149 - Verify user clicks on edit link
+2019-04-20 23:50:23 INFO  BaseClass:146 - Verify user role from the Access control table and it is :Technical Recruiter
+2019-04-20 23:50:23 INFO  BaseClass:146 - Verify user role from the Access control table and it is :Test Role
+2019-04-20 23:50:23 INFO  BaseClass:146 - Verify user role from the Access control table and it is :Clone Role
+2019-04-20 23:50:23 INFO  BaseClass:146 - Verify user role from the Access control table and it is :CEO
+2019-04-20 23:50:23 INFO  BaseClass:146 - Verify user role from the Access control table and it is :CSO
+2019-04-20 23:50:23 INFO  BaseClass:146 - Verify user role from the Access control table and it is :VP
+2019-04-20 23:50:23 INFO  BaseClass:146 - Verify user role from the Access control table and it is :Tech Head
+2019-04-20 23:50:23 INFO  BaseClass:146 - Verify user role from the Access control table and it is :Design Head
+2019-04-20 23:50:23 INFO  BaseClass:146 - Verify user role from the Access control table and it is :Test Head
+2019-04-20 23:50:23 INFO  BaseClass:146 - Verify user role from the Access control table and it is :Tech Lead
+2019-04-20 23:50:23 INFO  BaseClass:146 - Verify user role from the Access control table and it is :Design lead
+2019-04-20 23:50:23 INFO  BaseClass:146 - Verify user role from the Access control table and it is :Test Lead
+2019-04-20 23:50:23 INFO  BaseClass:146 - Verify user role from the Access control table and it is :Tech Members
+2019-04-20 23:50:23 INFO  BaseClass:146 - Verify user role from the Access control table and it is :Design Members
+2019-04-20 23:50:23 INFO  BaseClass:146 - Verify user role from the Access control table and it is :Test Members
+2019-04-20 23:50:23 INFO  BaseClass:146 - Verify user role from the Access control table and it is :Test intern
+2019-04-20 23:50:23 INFO  BaseClass:146 - Verify user role from the Access control table and it is :test
+2019-04-20 23:50:23 INFO  BaseClass:77 - Close the browser
+2019-04-20 23:50:26 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 00:00:58 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 00:00:58 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 00:01:02 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 00:01:03 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 00:01:53 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 00:01:54 INFO  BaseClass:59 - Go to CEIPAL Login Page
+2019-04-21 00:01:54 INFO  BaseClass:61 - Login with Admin credentails
+2019-04-21 00:01:54 INFO  BaseClass:69 - input Username :ceipal87@gmail.com
+2019-04-21 00:01:54 INFO  BaseClass:71 - click on Next Button
+2019-04-21 00:01:56 INFO  BaseClass:75 - input Password :Admin@123#
+2019-04-21 00:01:56 INFO  BaseClass:77 - click on Sigin Button
+2019-04-21 00:02:21 INFO  BaseClass:80 - Verify that User is logged in successfully to Home Page
+2019-04-21 00:02:21 INFO  BaseClass:86 - Click on User Account
+2019-04-21 00:02:21 INFO  BaseClass:90 - Verify the User Context
+2019-04-21 00:02:21 INFO  BaseClass:92 - User Type is:Administrator
+2019-04-21 00:02:21 INFO  BaseClass:100 - Click on setup button
+2019-04-21 00:02:26 INFO  BaseClass:105 - Input the search valueaccess
+2019-04-21 00:02:27 INFO  BaseClass:109 - Click on access control link
+2019-04-21 00:02:37 INFO  BaseClass:113 - Verify the user is navigated to Access control Page
+2019-04-21 00:02:37 INFO  BaseClass:74 - Select Security Permission from the dropdown
+2019-04-21 00:02:37 INFO  BaseClass:120 - Verify the security permission drop down
+2019-04-21 00:02:37 INFO  BaseClass:128 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 00:02:37 INFO  BaseClass:143 - Verify that user role is selected from the Access control Page
+2019-04-21 00:02:38 INFO  BaseClass:150 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 00:02:38 INFO  BaseClass:77 - Close the browser
+2019-04-21 00:02:40 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 00:03:24 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 00:03:25 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 00:03:28 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 00:03:29 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 00:05:54 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 00:05:54 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 00:05:58 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 00:05:59 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 00:07:49 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 00:07:50 INFO  BaseClass:59 - Go to CEIPAL Login Page
+2019-04-21 00:07:50 INFO  BaseClass:61 - Login with Admin credentails
+2019-04-21 00:07:50 INFO  BaseClass:69 - input Username :ceipal87@gmail.com
+2019-04-21 00:07:50 INFO  BaseClass:71 - click on Next Button
+2019-04-21 00:07:53 INFO  BaseClass:75 - input Password :Admin@123#
+2019-04-21 00:07:53 INFO  BaseClass:77 - click on Sigin Button
+2019-04-21 00:08:56 INFO  BaseClass:80 - Verify that User is logged in successfully to Home Page
+2019-04-21 00:08:56 INFO  BaseClass:86 - Click on User Account
+2019-04-21 00:08:56 INFO  BaseClass:90 - Verify the User Context
+2019-04-21 00:08:56 INFO  BaseClass:92 - User Type is:Administrator
+2019-04-21 00:08:56 INFO  BaseClass:100 - Click on setup button
+2019-04-21 00:09:07 INFO  BaseClass:105 - Input the search valueaccess
+2019-04-21 00:09:09 INFO  BaseClass:109 - Click on access control link
+2019-04-21 00:09:19 INFO  BaseClass:113 - Verify the user is navigated to Access control Page
+2019-04-21 00:09:19 INFO  BaseClass:74 - Select Security Permission from the dropdown
+2019-04-21 00:09:19 INFO  BaseClass:120 - Verify the security permission drop down
+2019-04-21 00:09:19 INFO  BaseClass:128 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 00:09:19 INFO  BaseClass:128 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 00:09:19 INFO  BaseClass:131 - Verify that user clicked on Job posting value
+2019-04-21 00:09:24 INFO  BaseClass:77 - Close the browser
+2019-04-21 00:09:26 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 07:42:20 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 07:42:20 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 07:42:24 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 07:42:25 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 07:43:03 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 07:43:04 INFO  BaseClass:59 - Go to CEIPAL Login Page
+2019-04-21 07:43:04 INFO  BaseClass:61 - Login with Admin credentails
+2019-04-21 07:43:04 INFO  BaseClass:69 - input Username :ceipal87@gmail.com
+2019-04-21 07:43:05 INFO  BaseClass:71 - click on Next Button
+2019-04-21 07:43:06 INFO  BaseClass:75 - input Password :Admin@123#
+2019-04-21 07:43:06 INFO  BaseClass:77 - click on Sigin Button
+2019-04-21 07:43:19 INFO  BaseClass:80 - Verify that User is logged in successfully to Home Page
+2019-04-21 07:43:19 INFO  BaseClass:86 - Click on User Account
+2019-04-21 07:43:20 INFO  BaseClass:90 - Verify the User Context
+2019-04-21 07:43:20 INFO  BaseClass:92 - User Type is:Administrator
+2019-04-21 07:43:20 INFO  BaseClass:100 - Click on setup button
+2019-04-21 07:43:22 INFO  BaseClass:105 - Input the search valueaccess
+2019-04-21 07:43:23 INFO  BaseClass:109 - Click on access control link
+2019-04-21 07:43:28 INFO  BaseClass:113 - Verify the user is navigated to Access control Page
+2019-04-21 07:43:28 INFO  BaseClass:74 - Select Security Permission from the dropdown
+2019-04-21 07:43:28 INFO  BaseClass:120 - Verify the security permission drop down
+2019-04-21 07:43:28 INFO  BaseClass:128 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 07:43:28 INFO  BaseClass:128 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 07:43:28 INFO  BaseClass:131 - Verify that user clicked on Job posting value
+2019-04-21 07:43:33 INFO  BaseClass:128 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 07:43:33 INFO  BaseClass:128 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 07:43:33 INFO  BaseClass:128 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 07:43:33 INFO  BaseClass:128 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 07:43:33 INFO  BaseClass:128 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 07:43:33 INFO  BaseClass:128 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 07:43:33 INFO  BaseClass:128 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 07:43:33 INFO  BaseClass:128 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 07:43:33 INFO  BaseClass:128 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 07:43:34 INFO  BaseClass:128 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 07:43:34 INFO  BaseClass:143 - Verify that user role is selected from the Access control Page
+2019-04-21 07:43:36 INFO  BaseClass:150 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 07:43:36 INFO  BaseClass:150 - Verify user role from the Access control table and it is :Hiring Manager
+2019-04-21 07:43:36 INFO  BaseClass:150 - Verify user role from the Access control table and it is :Technical Recruiter
+2019-04-21 07:43:36 INFO  BaseClass:153 - Verify user clicks on edit link
+2019-04-21 07:43:39 INFO  BaseClass:150 - Verify user role from the Access control table and it is :Test Role
+2019-04-21 07:43:39 INFO  BaseClass:150 - Verify user role from the Access control table and it is :Clone Role
+2019-04-21 07:43:39 INFO  BaseClass:150 - Verify user role from the Access control table and it is :CEO
+2019-04-21 07:43:39 INFO  BaseClass:150 - Verify user role from the Access control table and it is :CSO
+2019-04-21 07:43:39 INFO  BaseClass:150 - Verify user role from the Access control table and it is :VP
+2019-04-21 07:43:39 INFO  BaseClass:150 - Verify user role from the Access control table and it is :Tech Head
+2019-04-21 07:43:39 INFO  BaseClass:150 - Verify user role from the Access control table and it is :Design Head
+2019-04-21 07:43:39 INFO  BaseClass:150 - Verify user role from the Access control table and it is :Test Head
+2019-04-21 07:43:39 INFO  BaseClass:150 - Verify user role from the Access control table and it is :Tech Lead
+2019-04-21 07:43:39 INFO  BaseClass:150 - Verify user role from the Access control table and it is :Design lead
+2019-04-21 07:43:39 INFO  BaseClass:150 - Verify user role from the Access control table and it is :Test Lead
+2019-04-21 07:43:39 INFO  BaseClass:150 - Verify user role from the Access control table and it is :Tech Members
+2019-04-21 07:43:39 INFO  BaseClass:150 - Verify user role from the Access control table and it is :Design Members
+2019-04-21 07:43:39 INFO  BaseClass:150 - Verify user role from the Access control table and it is :Test Members
+2019-04-21 07:43:39 INFO  BaseClass:150 - Verify user role from the Access control table and it is :Test intern
+2019-04-21 07:43:39 INFO  BaseClass:150 - Verify user role from the Access control table and it is :test
+2019-04-21 07:43:39 INFO  BaseClass:77 - Close the browser
+2019-04-21 07:43:41 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 07:55:51 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 07:55:51 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 07:55:55 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 07:55:56 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 07:56:31 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 07:56:32 INFO  BaseClass:59 - Go to CEIPAL Login Page
+2019-04-21 07:56:32 INFO  BaseClass:61 - Login with Admin credentails
+2019-04-21 07:56:32 INFO  BaseClass:74 - input Username :ceipal87@gmail.com
+2019-04-21 07:56:32 INFO  BaseClass:76 - click on Next Button
+2019-04-21 07:56:33 INFO  BaseClass:80 - input Password :Admin@123#
+2019-04-21 07:56:33 INFO  BaseClass:82 - click on Sigin Button
+2019-04-21 07:56:40 INFO  BaseClass:85 - Verify that User is logged in successfully to Home Page
+2019-04-21 07:56:40 INFO  BaseClass:91 - Click on User Account
+2019-04-21 07:56:40 INFO  BaseClass:95 - Verify the User Context
+2019-04-21 07:56:40 INFO  BaseClass:97 - User Type is:Administrator
+2019-04-21 07:56:40 INFO  BaseClass:105 - Click on setup button
+2019-04-21 07:56:42 INFO  BaseClass:110 - Input the search valueaccess
+2019-04-21 07:56:43 INFO  BaseClass:114 - Click on access control link
+2019-04-21 07:56:47 INFO  BaseClass:118 - Verify the user is navigated to Access control Page
+2019-04-21 07:56:47 INFO  BaseClass:74 - Select Security Permission from the dropdown
+2019-04-21 07:56:47 INFO  BaseClass:125 - Verify the security permission drop down
+2019-04-21 07:56:55 INFO  BaseClass:133 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 07:56:55 INFO  BaseClass:133 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 07:56:55 INFO  BaseClass:136 - Verify that user clicked on Job posting value
+2019-04-21 07:56:59 INFO  BaseClass:133 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 07:56:59 INFO  BaseClass:133 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 07:56:59 INFO  BaseClass:133 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 07:56:59 INFO  BaseClass:133 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 07:56:59 INFO  BaseClass:133 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 07:56:59 INFO  BaseClass:133 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 07:56:59 INFO  BaseClass:133 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 07:56:59 INFO  BaseClass:133 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 07:56:59 INFO  BaseClass:133 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 07:56:59 INFO  BaseClass:133 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 07:56:59 INFO  BaseClass:148 - Verify that user role is selected from the Access control Page
+2019-04-21 07:57:01 INFO  BaseClass:155 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 07:57:01 INFO  BaseClass:155 - Verify user role from the Access control table and it is :Hiring Manager
+2019-04-21 07:57:01 INFO  BaseClass:155 - Verify user role from the Access control table and it is :Technical Recruiter
+2019-04-21 07:57:01 INFO  BaseClass:158 - Verify user clicks on edit link
+2019-04-21 07:57:04 INFO  BaseClass:155 - Verify user role from the Access control table and it is :Test Role
+2019-04-21 07:57:04 INFO  BaseClass:155 - Verify user role from the Access control table and it is :Clone Role
+2019-04-21 07:57:04 INFO  BaseClass:155 - Verify user role from the Access control table and it is :CEO
+2019-04-21 07:57:04 INFO  BaseClass:155 - Verify user role from the Access control table and it is :CSO
+2019-04-21 07:57:04 INFO  BaseClass:155 - Verify user role from the Access control table and it is :VP
+2019-04-21 07:57:04 INFO  BaseClass:155 - Verify user role from the Access control table and it is :Tech Head
+2019-04-21 07:57:04 INFO  BaseClass:155 - Verify user role from the Access control table and it is :Design Head
+2019-04-21 07:57:04 INFO  BaseClass:155 - Verify user role from the Access control table and it is :Test Head
+2019-04-21 07:57:04 INFO  BaseClass:155 - Verify user role from the Access control table and it is :Tech Lead
+2019-04-21 07:57:04 INFO  BaseClass:155 - Verify user role from the Access control table and it is :Design lead
+2019-04-21 07:57:04 INFO  BaseClass:155 - Verify user role from the Access control table and it is :Test Lead
+2019-04-21 07:57:04 INFO  BaseClass:155 - Verify user role from the Access control table and it is :Tech Members
+2019-04-21 07:57:04 INFO  BaseClass:155 - Verify user role from the Access control table and it is :Design Members
+2019-04-21 07:57:04 INFO  BaseClass:155 - Verify user role from the Access control table and it is :Test Members
+2019-04-21 07:57:04 INFO  BaseClass:155 - Verify user role from the Access control table and it is :Test intern
+2019-04-21 07:57:04 INFO  BaseClass:155 - Verify user role from the Access control table and it is :test
+2019-04-21 07:57:15 INFO  BaseClass:77 - Close the browser
+2019-04-21 07:57:17 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 07:58:41 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 07:58:41 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 07:58:45 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 07:58:46 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 07:59:25 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 07:59:25 INFO  BaseClass:59 - Go to CEIPAL Login Page
+2019-04-21 07:59:25 INFO  BaseClass:61 - Login with Admin credentails
+2019-04-21 07:59:25 INFO  BaseClass:74 - input Username :ceipal87@gmail.com
+2019-04-21 07:59:26 INFO  BaseClass:76 - click on Next Button
+2019-04-21 07:59:26 INFO  BaseClass:80 - input Password :Admin@123#
+2019-04-21 07:59:26 INFO  BaseClass:82 - click on Sigin Button
+2019-04-21 07:59:36 INFO  BaseClass:85 - Verify that User is logged in successfully to Home Page
+2019-04-21 07:59:36 INFO  BaseClass:91 - Click on User Account
+2019-04-21 07:59:36 INFO  BaseClass:95 - Verify the User Context
+2019-04-21 07:59:36 INFO  BaseClass:97 - User Type is:Administrator
+2019-04-21 07:59:36 INFO  BaseClass:105 - Click on setup button
+2019-04-21 07:59:39 INFO  BaseClass:110 - Input the search valueaccess
+2019-04-21 07:59:39 INFO  BaseClass:114 - Click on access control link
+2019-04-21 07:59:43 INFO  BaseClass:118 - Verify the user is navigated to Access control Page
+2019-04-21 07:59:43 INFO  BaseClass:74 - Select Security Permission from the dropdown
+2019-04-21 07:59:43 INFO  BaseClass:125 - Verify the security permission drop down
+2019-04-21 07:59:43 INFO  BaseClass:133 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 07:59:43 INFO  BaseClass:133 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 07:59:43 INFO  BaseClass:136 - Verify that user clicked on Job posting value
+2019-04-21 07:59:48 INFO  BaseClass:133 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 07:59:48 INFO  BaseClass:133 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 07:59:48 INFO  BaseClass:133 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 07:59:48 INFO  BaseClass:133 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 07:59:48 INFO  BaseClass:133 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 07:59:48 INFO  BaseClass:133 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 07:59:48 INFO  BaseClass:133 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 07:59:48 INFO  BaseClass:133 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 07:59:48 INFO  BaseClass:133 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 07:59:48 INFO  BaseClass:133 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 07:59:48 INFO  BaseClass:148 - Verify that user role is selected from the Access control Page
+2019-04-21 07:59:50 INFO  BaseClass:155 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 07:59:50 INFO  BaseClass:155 - Verify user role from the Access control table and it is :Hiring Manager
+2019-04-21 07:59:50 INFO  BaseClass:155 - Verify user role from the Access control table and it is :Technical Recruiter
+2019-04-21 07:59:50 INFO  BaseClass:158 - Verify user clicks on edit link
+2019-04-21 07:59:53 INFO  BaseClass:155 - Verify user role from the Access control table and it is :Test Role
+2019-04-21 07:59:53 INFO  BaseClass:155 - Verify user role from the Access control table and it is :Clone Role
+2019-04-21 07:59:53 INFO  BaseClass:155 - Verify user role from the Access control table and it is :CEO
+2019-04-21 07:59:53 INFO  BaseClass:155 - Verify user role from the Access control table and it is :CSO
+2019-04-21 07:59:53 INFO  BaseClass:155 - Verify user role from the Access control table and it is :VP
+2019-04-21 07:59:53 INFO  BaseClass:155 - Verify user role from the Access control table and it is :Tech Head
+2019-04-21 07:59:53 INFO  BaseClass:155 - Verify user role from the Access control table and it is :Design Head
+2019-04-21 07:59:53 INFO  BaseClass:155 - Verify user role from the Access control table and it is :Test Head
+2019-04-21 07:59:53 INFO  BaseClass:155 - Verify user role from the Access control table and it is :Tech Lead
+2019-04-21 07:59:53 INFO  BaseClass:155 - Verify user role from the Access control table and it is :Design lead
+2019-04-21 07:59:53 INFO  BaseClass:155 - Verify user role from the Access control table and it is :Test Lead
+2019-04-21 07:59:53 INFO  BaseClass:155 - Verify user role from the Access control table and it is :Tech Members
+2019-04-21 07:59:53 INFO  BaseClass:155 - Verify user role from the Access control table and it is :Design Members
+2019-04-21 07:59:53 INFO  BaseClass:155 - Verify user role from the Access control table and it is :Test Members
+2019-04-21 07:59:53 INFO  BaseClass:155 - Verify user role from the Access control table and it is :Test intern
+2019-04-21 07:59:53 INFO  BaseClass:155 - Verify user role from the Access control table and it is :test
+2019-04-21 08:09:41 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 08:09:41 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 08:09:45 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 08:09:46 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 08:10:26 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 08:10:27 INFO  BaseClass:59 - Go to CEIPAL Login Page
+2019-04-21 08:10:27 INFO  BaseClass:61 - Login with Admin credentails
+2019-04-21 08:10:27 INFO  BaseClass:75 - input Username :ceipal87@gmail.com
+2019-04-21 08:10:27 INFO  BaseClass:77 - click on Next Button
+2019-04-21 08:10:28 INFO  BaseClass:81 - input Password :Admin@123#
+2019-04-21 08:10:28 INFO  BaseClass:83 - click on Sigin Button
+2019-04-21 08:10:38 INFO  BaseClass:86 - Verify that User is logged in successfully to Home Page
+2019-04-21 08:10:38 INFO  BaseClass:92 - Click on User Account
+2019-04-21 08:10:38 INFO  BaseClass:96 - Verify the User Context
+2019-04-21 08:10:38 INFO  BaseClass:98 - User Type is:Administrator
+2019-04-21 08:10:38 INFO  BaseClass:106 - Click on setup button
+2019-04-21 08:10:40 INFO  BaseClass:111 - Input the search valueaccess
+2019-04-21 08:10:41 INFO  BaseClass:115 - Click on access control link
+2019-04-21 08:10:45 INFO  BaseClass:119 - Verify the user is navigated to Access control Page
+2019-04-21 08:10:45 INFO  BaseClass:74 - Select Security Permission from the dropdown
+2019-04-21 08:10:45 INFO  BaseClass:126 - Verify the security permission drop down
+2019-04-21 08:10:45 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 08:10:45 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 08:10:45 INFO  BaseClass:137 - Verify that user clicked on Job posting value
+2019-04-21 08:10:50 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 08:10:50 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 08:10:50 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 08:10:50 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 08:10:50 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 08:10:50 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 08:10:50 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 08:10:50 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 08:10:50 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 08:10:50 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 08:10:50 INFO  BaseClass:149 - Verify that user role is selected from the Access control Page
+2019-04-21 08:10:52 INFO  BaseClass:156 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 08:10:52 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Hiring Manager
+2019-04-21 08:10:52 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Technical Recruiter
+2019-04-21 08:10:52 INFO  BaseClass:159 - Verify user clicks on edit link
+2019-04-21 08:10:55 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Test Role
+2019-04-21 08:10:55 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Clone Role
+2019-04-21 08:10:55 INFO  BaseClass:156 - Verify user role from the Access control table and it is :CEO
+2019-04-21 08:10:55 INFO  BaseClass:156 - Verify user role from the Access control table and it is :CSO
+2019-04-21 08:10:55 INFO  BaseClass:156 - Verify user role from the Access control table and it is :VP
+2019-04-21 08:10:55 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Tech Head
+2019-04-21 08:10:55 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Design Head
+2019-04-21 08:10:55 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Test Head
+2019-04-21 08:10:55 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Tech Lead
+2019-04-21 08:10:55 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Design lead
+2019-04-21 08:10:55 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Test Lead
+2019-04-21 08:10:55 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Tech Members
+2019-04-21 08:10:55 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Design Members
+2019-04-21 08:10:55 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Test Members
+2019-04-21 08:10:55 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Test intern
+2019-04-21 08:10:55 INFO  BaseClass:156 - Verify user role from the Access control table and it is :test
+2019-04-21 08:10:55 INFO  BaseClass:77 - Close the browser
+2019-04-21 08:10:57 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 08:25:16 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 08:25:17 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 08:25:20 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 08:25:21 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 08:26:02 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 08:26:03 INFO  BaseClass:59 - Go to CEIPAL Login Page
+2019-04-21 08:26:03 INFO  BaseClass:61 - Login with Admin credentails
+2019-04-21 08:26:03 INFO  BaseClass:75 - input Username :ceipal87@gmail.com
+2019-04-21 08:26:03 INFO  BaseClass:77 - click on Next Button
+2019-04-21 08:26:04 INFO  BaseClass:81 - input Password :Admin@123#
+2019-04-21 08:26:04 INFO  BaseClass:83 - click on Sigin Button
+2019-04-21 08:26:14 INFO  BaseClass:86 - Verify that User is logged in successfully to Home Page
+2019-04-21 08:26:14 INFO  BaseClass:92 - Click on User Account
+2019-04-21 08:26:15 INFO  BaseClass:96 - Verify the User Context
+2019-04-21 08:26:15 INFO  BaseClass:98 - User Type is:Administrator
+2019-04-21 08:26:15 INFO  BaseClass:106 - Click on setup button
+2019-04-21 08:26:17 INFO  BaseClass:111 - Input the search valueaccess
+2019-04-21 08:26:18 INFO  BaseClass:115 - Click on access control link
+2019-04-21 08:26:21 INFO  BaseClass:119 - Verify the user is navigated to Access control Page
+2019-04-21 08:26:21 INFO  BaseClass:74 - Select Security Permission from the dropdown
+2019-04-21 08:26:21 INFO  BaseClass:126 - Verify the security permission drop down
+2019-04-21 08:26:21 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 08:26:21 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 08:26:21 INFO  BaseClass:137 - Verify that user clicked on Job posting value
+2019-04-21 08:26:27 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 08:26:27 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 08:26:27 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 08:26:27 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 08:26:27 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 08:26:27 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 08:26:27 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 08:26:27 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 08:26:27 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 08:26:27 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 08:26:27 INFO  BaseClass:149 - Verify that user role is selected from the Access control Page
+2019-04-21 08:26:29 INFO  BaseClass:156 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 08:26:29 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Hiring Manager
+2019-04-21 08:26:29 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Technical Recruiter
+2019-04-21 08:26:29 INFO  BaseClass:159 - Verify user clicks on edit link
+2019-04-21 08:26:32 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Test Role
+2019-04-21 08:26:32 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Clone Role
+2019-04-21 08:26:32 INFO  BaseClass:156 - Verify user role from the Access control table and it is :CEO
+2019-04-21 08:26:32 INFO  BaseClass:156 - Verify user role from the Access control table and it is :CSO
+2019-04-21 08:26:32 INFO  BaseClass:156 - Verify user role from the Access control table and it is :VP
+2019-04-21 08:26:32 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Tech Head
+2019-04-21 08:26:32 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Design Head
+2019-04-21 08:26:32 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Test Head
+2019-04-21 08:26:32 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Tech Lead
+2019-04-21 08:26:32 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Design lead
+2019-04-21 08:26:32 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Test Lead
+2019-04-21 08:26:32 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Tech Members
+2019-04-21 08:26:32 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Design Members
+2019-04-21 08:26:32 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Test Members
+2019-04-21 08:26:32 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Test intern
+2019-04-21 08:26:32 INFO  BaseClass:156 - Verify user role from the Access control table and it is :test
+2019-04-21 08:28:08 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 08:28:09 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 08:28:12 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 08:28:13 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 08:28:54 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 08:28:55 INFO  BaseClass:59 - Go to CEIPAL Login Page
+2019-04-21 08:28:55 INFO  BaseClass:61 - Login with Admin credentails
+2019-04-21 08:28:55 INFO  BaseClass:75 - input Username :ceipal87@gmail.com
+2019-04-21 08:28:55 INFO  BaseClass:77 - click on Next Button
+2019-04-21 08:28:56 INFO  BaseClass:81 - input Password :Admin@123#
+2019-04-21 08:28:56 INFO  BaseClass:83 - click on Sigin Button
+2019-04-21 08:29:06 INFO  BaseClass:86 - Verify that User is logged in successfully to Home Page
+2019-04-21 08:29:06 INFO  BaseClass:92 - Click on User Account
+2019-04-21 08:29:06 INFO  BaseClass:96 - Verify the User Context
+2019-04-21 08:29:06 INFO  BaseClass:98 - User Type is:Administrator
+2019-04-21 08:29:06 INFO  BaseClass:106 - Click on setup button
+2019-04-21 08:29:08 INFO  BaseClass:111 - Input the search valueaccess
+2019-04-21 08:29:09 INFO  BaseClass:115 - Click on access control link
+2019-04-21 08:29:13 INFO  BaseClass:119 - Verify the user is navigated to Access control Page
+2019-04-21 08:29:13 INFO  BaseClass:74 - Select Security Permission from the dropdown
+2019-04-21 08:29:13 INFO  BaseClass:126 - Verify the security permission drop down
+2019-04-21 08:29:13 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 08:29:13 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 08:29:13 INFO  BaseClass:137 - Verify that user clicked on Job posting value
+2019-04-21 08:29:18 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 08:29:18 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 08:29:18 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 08:29:18 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 08:29:19 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 08:29:19 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 08:29:19 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 08:29:19 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 08:29:19 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 08:29:19 INFO  BaseClass:134 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 08:29:19 INFO  BaseClass:149 - Verify that user role is selected from the Access control Page
+2019-04-21 08:29:36 INFO  BaseClass:156 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 08:29:39 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Hiring Manager
+2019-04-21 08:29:46 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Technical Recruiter
+2019-04-21 08:29:48 INFO  BaseClass:159 - Verify user clicks on edit link
+2019-04-21 08:30:03 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Test Role
+2019-04-21 08:30:04 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Clone Role
+2019-04-21 08:30:07 INFO  BaseClass:156 - Verify user role from the Access control table and it is :CEO
+2019-04-21 08:30:08 INFO  BaseClass:156 - Verify user role from the Access control table and it is :CSO
+2019-04-21 08:30:10 INFO  BaseClass:156 - Verify user role from the Access control table and it is :VP
+2019-04-21 08:30:11 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Tech Head
+2019-04-21 08:30:12 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Design Head
+2019-04-21 08:30:13 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Test Head
+2019-04-21 08:30:14 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Tech Lead
+2019-04-21 08:30:16 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Design lead
+2019-04-21 08:30:17 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Test Lead
+2019-04-21 08:30:19 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Tech Members
+2019-04-21 08:30:20 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Design Members
+2019-04-21 08:30:22 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Test Members
+2019-04-21 08:30:23 INFO  BaseClass:156 - Verify user role from the Access control table and it is :Test intern
+2019-04-21 08:30:24 INFO  BaseClass:156 - Verify user role from the Access control table and it is :test
+2019-04-21 08:41:16 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 08:41:16 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 08:41:20 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 08:41:21 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 08:41:56 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 08:41:57 INFO  BaseClass:59 - Go to CEIPAL Login Page
+2019-04-21 08:41:57 INFO  BaseClass:61 - Login with Admin credentails
+2019-04-21 08:41:57 INFO  BaseClass:78 - input Username :ceipal87@gmail.com
+2019-04-21 08:41:57 INFO  BaseClass:80 - click on Next Button
+2019-04-21 08:41:58 INFO  BaseClass:84 - input Password :Admin@123#
+2019-04-21 08:41:58 INFO  BaseClass:86 - click on Sigin Button
+2019-04-21 08:42:06 INFO  BaseClass:89 - Verify that User is logged in successfully to Home Page
+2019-04-21 08:42:06 INFO  BaseClass:95 - Click on User Account
+2019-04-21 08:42:06 INFO  BaseClass:99 - Verify the User Context
+2019-04-21 08:42:06 INFO  BaseClass:101 - User Type is:Administrator
+2019-04-21 08:42:06 INFO  BaseClass:109 - Click on setup button
+2019-04-21 08:42:08 INFO  BaseClass:114 - Input the search valueaccess
+2019-04-21 08:42:09 INFO  BaseClass:118 - Click on access control link
+2019-04-21 08:42:12 INFO  BaseClass:122 - Verify the user is navigated to Access control Page
+2019-04-21 08:42:12 INFO  BaseClass:74 - Select Security Permission from the dropdown
+2019-04-21 08:42:12 INFO  BaseClass:129 - Verify the security permission drop down
+2019-04-21 08:42:12 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 08:42:12 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 08:42:12 INFO  BaseClass:140 - Verify that user clicked on Job posting value
+2019-04-21 08:42:17 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 08:42:17 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 08:42:17 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 08:42:17 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 08:42:17 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 08:42:17 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 08:42:17 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 08:42:17 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 08:42:17 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 08:42:17 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 08:42:17 INFO  BaseClass:152 - Verify that user role is selected from the Access control Page
+2019-04-21 08:42:32 INFO  BaseClass:159 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 08:42:34 INFO  BaseClass:159 - Verify user role from the Access control table and it is :Hiring Manager
+2019-04-21 08:42:36 INFO  BaseClass:159 - Verify user role from the Access control table and it is :Technical Recruiter
+2019-04-21 08:42:37 INFO  BaseClass:162 - Verify user clicks on edit link
+2019-04-21 08:42:53 INFO  BaseClass:173 - Verify that user is navigated to respective Field access control
+2019-04-21 08:43:00 INFO  BaseClass:177 - user is navigated to Field access control Page: Technical Recruiter
+2019-04-21 08:43:27 INFO  BaseClass:77 - Close the browser
+2019-04-21 08:43:30 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 08:49:42 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 08:49:42 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 08:49:45 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 08:49:47 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 08:50:19 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 08:50:20 INFO  BaseClass:59 - Go to CEIPAL Login Page
+2019-04-21 08:50:20 INFO  BaseClass:61 - Login with Admin credentails
+2019-04-21 08:50:20 INFO  BaseClass:78 - input Username :ceipal87@gmail.com
+2019-04-21 08:50:20 INFO  BaseClass:80 - click on Next Button
+2019-04-21 08:50:21 INFO  BaseClass:84 - input Password :Admin@123#
+2019-04-21 08:50:21 INFO  BaseClass:86 - click on Sigin Button
+2019-04-21 08:50:29 INFO  BaseClass:89 - Verify that User is logged in successfully to Home Page
+2019-04-21 08:50:29 INFO  BaseClass:95 - Click on User Account
+2019-04-21 08:50:29 INFO  BaseClass:99 - Verify the User Context
+2019-04-21 08:50:29 INFO  BaseClass:101 - User Type is:Administrator
+2019-04-21 08:50:29 INFO  BaseClass:109 - Click on setup button
+2019-04-21 08:50:31 INFO  BaseClass:114 - Input the search valueaccess
+2019-04-21 08:50:32 INFO  BaseClass:118 - Click on access control link
+2019-04-21 08:50:35 INFO  BaseClass:122 - Verify the user is navigated to Access control Page
+2019-04-21 08:50:35 INFO  BaseClass:74 - Select Security Permission from the dropdown
+2019-04-21 08:50:35 INFO  BaseClass:129 - Verify the security permission drop down
+2019-04-21 08:50:35 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 08:50:35 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 08:50:35 INFO  BaseClass:140 - Verify that user clicked on Job posting value
+2019-04-21 08:50:40 INFO  BaseClass:77 - Close the browser
+2019-04-21 08:50:42 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 08:54:28 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 08:54:28 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 08:54:31 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 08:54:33 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 08:55:09 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 08:55:10 INFO  BaseClass:59 - Go to CEIPAL Login Page
+2019-04-21 08:55:10 INFO  BaseClass:61 - Login with Admin credentails
+2019-04-21 08:55:10 INFO  BaseClass:78 - input Username :ceipal87@gmail.com
+2019-04-21 08:55:10 INFO  BaseClass:80 - click on Next Button
+2019-04-21 08:55:11 INFO  BaseClass:84 - input Password :Admin@123#
+2019-04-21 08:55:11 INFO  BaseClass:86 - click on Sigin Button
+2019-04-21 08:55:19 INFO  BaseClass:89 - Verify that User is logged in successfully to Home Page
+2019-04-21 08:55:19 INFO  BaseClass:95 - Click on User Account
+2019-04-21 08:55:19 INFO  BaseClass:99 - Verify the User Context
+2019-04-21 08:55:19 INFO  BaseClass:101 - User Type is:Administrator
+2019-04-21 08:55:19 INFO  BaseClass:109 - Click on setup button
+2019-04-21 08:55:21 INFO  BaseClass:114 - Input the search valueaccess
+2019-04-21 08:55:22 INFO  BaseClass:118 - Click on access control link
+2019-04-21 08:55:25 INFO  BaseClass:122 - Verify the user is navigated to Access control Page
+2019-04-21 08:55:25 INFO  BaseClass:74 - Select Security Permission from the dropdown
+2019-04-21 08:55:25 INFO  BaseClass:129 - Verify the security permission drop down
+2019-04-21 08:55:25 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 08:55:25 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 08:55:25 INFO  BaseClass:140 - Verify that user clicked on Job posting value
+2019-04-21 08:55:30 INFO  BaseClass:77 - Close the browser
+2019-04-21 08:55:30 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 09:02:04 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 09:02:04 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 09:02:07 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 09:02:09 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 09:02:43 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 09:02:43 INFO  BaseClass:59 - Go to CEIPAL Login Page
+2019-04-21 09:02:43 INFO  BaseClass:61 - Login with Admin credentails
+2019-04-21 09:02:43 INFO  BaseClass:78 - input Username :ceipal87@gmail.com
+2019-04-21 09:02:43 INFO  BaseClass:80 - click on Next Button
+2019-04-21 09:02:44 INFO  BaseClass:84 - input Password :Admin@123#
+2019-04-21 09:02:44 INFO  BaseClass:86 - click on Sigin Button
+2019-04-21 09:02:52 INFO  BaseClass:89 - Verify that User is logged in successfully to Home Page
+2019-04-21 09:02:52 INFO  BaseClass:95 - Click on User Account
+2019-04-21 09:02:52 INFO  BaseClass:99 - Verify the User Context
+2019-04-21 09:02:52 INFO  BaseClass:101 - User Type is:Administrator
+2019-04-21 09:02:52 INFO  BaseClass:109 - Click on setup button
+2019-04-21 09:02:54 INFO  BaseClass:114 - Input the search valueaccess
+2019-04-21 09:02:55 INFO  BaseClass:118 - Click on access control link
+2019-04-21 09:02:59 INFO  BaseClass:122 - Verify the user is navigated to Access control Page
+2019-04-21 09:02:59 INFO  BaseClass:74 - Select Security Permission from the dropdown
+2019-04-21 09:02:59 INFO  BaseClass:129 - Verify the security permission drop down
+2019-04-21 09:02:59 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 09:02:59 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 09:02:59 INFO  BaseClass:140 - Verify that user clicked on Job posting value
+2019-04-21 09:03:01 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 09:03:01 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 09:03:01 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 09:03:01 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 09:03:01 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 09:03:01 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 09:03:01 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 09:03:01 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 09:03:01 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 09:03:01 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 09:03:01 INFO  BaseClass:153 - Verify that user role is selected from the Access control Page
+2019-04-21 09:03:02 INFO  BaseClass:77 - Close the browser
+2019-04-21 09:03:02 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 09:04:35 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 09:04:35 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 09:04:39 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 09:04:40 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 09:05:14 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 09:05:14 INFO  BaseClass:59 - Go to CEIPAL Login Page
+2019-04-21 09:05:14 INFO  BaseClass:61 - Login with Admin credentails
+2019-04-21 09:05:14 INFO  BaseClass:78 - input Username :ceipal87@gmail.com
+2019-04-21 09:05:14 INFO  BaseClass:80 - click on Next Button
+2019-04-21 09:05:15 INFO  BaseClass:84 - input Password :Admin@123#
+2019-04-21 09:05:15 INFO  BaseClass:86 - click on Sigin Button
+2019-04-21 09:05:22 INFO  BaseClass:89 - Verify that User is logged in successfully to Home Page
+2019-04-21 09:05:22 INFO  BaseClass:95 - Click on User Account
+2019-04-21 09:05:23 INFO  BaseClass:99 - Verify the User Context
+2019-04-21 09:05:23 INFO  BaseClass:101 - User Type is:Administrator
+2019-04-21 09:05:23 INFO  BaseClass:109 - Click on setup button
+2019-04-21 09:05:25 INFO  BaseClass:114 - Input the search valueaccess
+2019-04-21 09:05:26 INFO  BaseClass:118 - Click on access control link
+2019-04-21 09:05:29 INFO  BaseClass:122 - Verify the user is navigated to Access control Page
+2019-04-21 09:05:29 INFO  BaseClass:74 - Select Security Permission from the dropdown
+2019-04-21 09:05:29 INFO  BaseClass:129 - Verify the security permission drop down
+2019-04-21 09:05:30 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 09:05:30 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 09:05:30 INFO  BaseClass:140 - Verify that user clicked on Job posting value
+2019-04-21 09:05:35 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 09:05:35 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 09:05:35 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 09:05:35 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 09:05:35 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 09:05:35 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 09:05:35 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 09:05:35 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 09:05:35 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 09:05:35 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 09:05:35 INFO  BaseClass:153 - Verify that user role is selected from the Access control Page
+2019-04-21 09:05:45 INFO  BaseClass:160 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 09:05:47 INFO  BaseClass:160 - Verify user role from the Access control table and it is :Hiring Manager
+2019-04-21 09:05:48 INFO  BaseClass:160 - Verify user role from the Access control table and it is :Technical Recruiter
+2019-04-21 09:05:48 INFO  BaseClass:163 - Verify user clicks on edit link
+2019-04-21 09:05:57 INFO  BaseClass:174 - Verify that user is navigated to respective Field access control
+2019-04-21 09:06:00 INFO  BaseClass:178 - user is navigated to Field access control Page: Technical Recruiter
+2019-04-21 09:06:03 INFO  BaseClass:185 - Verify user clicks on Client Bill Rate/salary None Button 
+2019-04-21 09:06:50 INFO  BaseClass:207 - Click on User Account
+2019-04-21 09:07:21 INFO  BaseClass:77 - Close the browser
+2019-04-21 09:07:21 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 09:09:06 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 09:09:06 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 09:09:10 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 09:09:11 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 09:09:45 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 09:09:46 INFO  BaseClass:59 - Go to CEIPAL Login Page
+2019-04-21 09:09:46 INFO  BaseClass:61 - Login with Admin credentails
+2019-04-21 09:09:46 INFO  BaseClass:78 - input Username :ceipal87@gmail.com
+2019-04-21 09:09:46 INFO  BaseClass:80 - click on Next Button
+2019-04-21 09:09:47 INFO  BaseClass:84 - input Password :Admin@123#
+2019-04-21 09:09:47 INFO  BaseClass:86 - click on Sigin Button
+2019-04-21 09:09:54 INFO  BaseClass:89 - Verify that User is logged in successfully to Home Page
+2019-04-21 09:09:54 INFO  BaseClass:95 - Click on User Account
+2019-04-21 09:09:54 INFO  BaseClass:99 - Verify the User Context
+2019-04-21 09:09:54 INFO  BaseClass:101 - User Type is:Administrator
+2019-04-21 09:09:54 INFO  BaseClass:109 - Click on setup button
+2019-04-21 09:09:56 INFO  BaseClass:114 - Input the search valueaccess
+2019-04-21 09:09:57 INFO  BaseClass:118 - Click on access control link
+2019-04-21 09:10:00 INFO  BaseClass:122 - Verify the user is navigated to Access control Page
+2019-04-21 09:10:00 INFO  BaseClass:74 - Select Security Permission from the dropdown
+2019-04-21 09:10:00 INFO  BaseClass:129 - Verify the security permission drop down
+2019-04-21 09:10:00 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 09:10:00 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 09:10:00 INFO  BaseClass:140 - Verify that user clicked on Job posting value
+2019-04-21 09:10:06 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 09:10:06 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 09:10:06 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 09:10:06 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 09:10:06 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 09:10:06 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 09:10:06 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 09:10:06 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 09:10:06 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 09:10:06 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 09:10:06 INFO  BaseClass:153 - Verify that user role is selected from the Access control Page
+2019-04-21 09:10:08 INFO  BaseClass:160 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 09:10:08 INFO  BaseClass:160 - Verify user role from the Access control table and it is :Hiring Manager
+2019-04-21 09:10:08 INFO  BaseClass:160 - Verify user role from the Access control table and it is :Technical Recruiter
+2019-04-21 09:10:08 INFO  BaseClass:163 - Verify user clicks on edit link
+2019-04-21 09:10:13 INFO  BaseClass:174 - Verify that user is navigated to respective Field access control
+2019-04-21 09:10:13 INFO  BaseClass:178 - user is navigated to Field access control Page: Technical Recruiter
+2019-04-21 09:10:13 INFO  BaseClass:185 - Verify user clicks on Client Bill Rate/salary None Button 
+2019-04-21 09:10:14 INFO  BaseClass:77 - Close the browser
+2019-04-21 09:10:14 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 09:11:31 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 09:11:31 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 09:11:37 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 09:11:37 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 09:11:40 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 09:11:42 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 09:12:16 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 09:12:17 INFO  BaseClass:59 - Go to CEIPAL Login Page
+2019-04-21 09:12:17 INFO  BaseClass:61 - Login with Admin credentails
+2019-04-21 09:12:17 INFO  BaseClass:78 - input Username :ceipal87@gmail.com
+2019-04-21 09:12:17 INFO  BaseClass:80 - click on Next Button
+2019-04-21 09:12:18 INFO  BaseClass:84 - input Password :Admin@123#
+2019-04-21 09:12:18 INFO  BaseClass:86 - click on Sigin Button
+2019-04-21 09:12:24 INFO  BaseClass:89 - Verify that User is logged in successfully to Home Page
+2019-04-21 09:12:24 INFO  BaseClass:95 - Click on User Account
+2019-04-21 09:12:25 INFO  BaseClass:99 - Verify the User Context
+2019-04-21 09:12:25 INFO  BaseClass:101 - User Type is:Administrator
+2019-04-21 09:12:25 INFO  BaseClass:109 - Click on setup button
+2019-04-21 09:12:27 INFO  BaseClass:114 - Input the search valueaccess
+2019-04-21 09:12:27 INFO  BaseClass:118 - Click on access control link
+2019-04-21 09:12:31 INFO  BaseClass:122 - Verify the user is navigated to Access control Page
+2019-04-21 09:12:31 INFO  BaseClass:74 - Select Security Permission from the dropdown
+2019-04-21 09:12:31 INFO  BaseClass:129 - Verify the security permission drop down
+2019-04-21 09:12:31 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 09:12:31 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 09:12:31 INFO  BaseClass:140 - Verify that user clicked on Job posting value
+2019-04-21 09:12:37 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 09:12:37 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 09:12:37 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 09:12:37 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 09:12:37 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 09:12:37 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 09:12:37 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 09:12:37 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 09:12:37 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 09:12:37 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 09:12:37 INFO  BaseClass:153 - Verify that user role is selected from the Access control Page
+2019-04-21 09:12:39 INFO  BaseClass:160 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 09:12:39 INFO  BaseClass:160 - Verify user role from the Access control table and it is :Hiring Manager
+2019-04-21 09:12:39 INFO  BaseClass:160 - Verify user role from the Access control table and it is :Technical Recruiter
+2019-04-21 09:12:39 INFO  BaseClass:163 - Verify user clicks on edit link
+2019-04-21 09:12:44 INFO  BaseClass:174 - Verify that user is navigated to respective Field access control
+2019-04-21 09:12:44 INFO  BaseClass:178 - user is navigated to Field access control Page: Technical Recruiter
+2019-04-21 09:12:44 INFO  BaseClass:185 - Verify user clicks on Client Bill Rate/salary None Button 
+2019-04-21 09:12:44 INFO  BaseClass:207 - Click on User Account
+2019-04-21 09:12:44 INFO  BaseClass:77 - Close the browser
+2019-04-21 09:12:45 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 09:14:48 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 09:14:49 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 09:14:52 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 09:14:53 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 09:15:38 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 09:15:39 INFO  BaseClass:59 - Go to CEIPAL Login Page
+2019-04-21 09:15:39 INFO  BaseClass:61 - Login with Admin credentails
+2019-04-21 09:15:39 INFO  BaseClass:78 - input Username :ceipal87@gmail.com
+2019-04-21 09:15:39 INFO  BaseClass:80 - click on Next Button
+2019-04-21 09:15:39 INFO  BaseClass:84 - input Password :Admin@123#
+2019-04-21 09:15:39 INFO  BaseClass:86 - click on Sigin Button
+2019-04-21 09:15:47 INFO  BaseClass:89 - Verify that User is logged in successfully to Home Page
+2019-04-21 09:15:47 INFO  BaseClass:95 - Click on User Account
+2019-04-21 09:15:47 INFO  BaseClass:99 - Verify the User Context
+2019-04-21 09:15:47 INFO  BaseClass:101 - User Type is:Administrator
+2019-04-21 09:15:47 INFO  BaseClass:109 - Click on setup button
+2019-04-21 09:15:49 INFO  BaseClass:114 - Input the search valueaccess
+2019-04-21 09:15:50 INFO  BaseClass:118 - Click on access control link
+2019-04-21 09:15:53 INFO  BaseClass:122 - Verify the user is navigated to Access control Page
+2019-04-21 09:15:53 INFO  BaseClass:74 - Select Security Permission from the dropdown
+2019-04-21 09:15:53 INFO  BaseClass:129 - Verify the security permission drop down
+2019-04-21 09:15:54 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 09:15:54 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 09:15:54 INFO  BaseClass:140 - Verify that user clicked on Job posting value
+2019-04-21 09:16:09 INFO  BaseClass:77 - Close the browser
+2019-04-21 09:16:10 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 09:16:49 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 09:16:50 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 09:16:53 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 09:16:54 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 09:17:28 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 09:17:28 INFO  BaseClass:59 - Go to CEIPAL Login Page
+2019-04-21 09:17:28 INFO  BaseClass:61 - Login with Admin credentails
+2019-04-21 09:17:28 INFO  BaseClass:78 - input Username :ceipal87@gmail.com
+2019-04-21 09:17:28 INFO  BaseClass:80 - click on Next Button
+2019-04-21 09:17:29 INFO  BaseClass:84 - input Password :Admin@123#
+2019-04-21 09:17:29 INFO  BaseClass:86 - click on Sigin Button
+2019-04-21 09:17:36 INFO  BaseClass:89 - Verify that User is logged in successfully to Home Page
+2019-04-21 09:17:36 INFO  BaseClass:95 - Click on User Account
+2019-04-21 09:17:36 INFO  BaseClass:99 - Verify the User Context
+2019-04-21 09:17:36 INFO  BaseClass:101 - User Type is:Administrator
+2019-04-21 09:17:36 INFO  BaseClass:109 - Click on setup button
+2019-04-21 09:17:38 INFO  BaseClass:114 - Input the search valueaccess
+2019-04-21 09:17:39 INFO  BaseClass:118 - Click on access control link
+2019-04-21 09:17:42 INFO  BaseClass:122 - Verify the user is navigated to Access control Page
+2019-04-21 09:17:42 INFO  BaseClass:74 - Select Security Permission from the dropdown
+2019-04-21 09:17:42 INFO  BaseClass:129 - Verify the security permission drop down
+2019-04-21 09:17:43 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 09:17:43 INFO  BaseClass:137 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 09:17:43 INFO  BaseClass:140 - Verify that user clicked on Job posting value
+2019-04-21 09:18:10 INFO  BaseClass:77 - Close the browser
+2019-04-21 09:18:10 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 10:09:13 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 10:09:13 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 10:09:16 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 10:09:40 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 10:09:40 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 10:09:44 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 10:09:45 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 10:10:19 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 10:10:19 INFO  BaseClass:59 - Go to CEIPAL Login Page
+2019-04-21 10:10:19 INFO  BaseClass:61 - Login with Admin credentails
+2019-04-21 10:10:19 INFO  BaseClass:78 - input Username :ceipal87@gmail.com
+2019-04-21 10:10:19 INFO  BaseClass:80 - click on Next Button
+2019-04-21 10:10:20 INFO  BaseClass:84 - input Password :Admin@123#
+2019-04-21 10:10:20 INFO  BaseClass:86 - click on Sigin Button
+2019-04-21 10:10:27 INFO  BaseClass:89 - Verify that User is logged in successfully to Home Page
+2019-04-21 10:10:27 INFO  BaseClass:95 - Click on User Account
+2019-04-21 10:10:28 INFO  BaseClass:99 - Verify the User Context
+2019-04-21 10:10:28 INFO  BaseClass:101 - User Type is:Administrator
+2019-04-21 10:10:28 INFO  BaseClass:109 - Click on setup button
+2019-04-21 10:10:30 INFO  BaseClass:114 - Input the search valueaccess
+2019-04-21 10:10:31 INFO  BaseClass:118 - Click on access control link
+2019-04-21 10:10:34 INFO  BaseClass:122 - Verify the user is navigated to Access control Page
+2019-04-21 10:10:34 INFO  BaseClass:74 - Select Security Permission from the dropdown
+2019-04-21 10:10:36 INFO  BaseClass:132 - Verify the security permission drop down
+2019-04-21 10:10:36 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 10:10:36 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 10:10:36 INFO  BaseClass:143 - Verify that user clicked on Job posting value
+2019-04-21 10:10:40 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 10:10:40 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 10:10:40 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 10:10:40 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 10:10:40 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 10:10:40 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 10:10:40 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 10:10:40 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 10:10:40 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 10:10:40 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 10:10:40 INFO  BaseClass:156 - Verify that user role is selected from the Access control Page
+2019-04-21 10:10:42 INFO  BaseClass:163 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 10:10:42 INFO  BaseClass:163 - Verify user role from the Access control table and it is :Hiring Manager
+2019-04-21 10:10:42 INFO  BaseClass:163 - Verify user role from the Access control table and it is :Technical Recruiter
+2019-04-21 10:10:42 INFO  BaseClass:166 - Verify user clicks on edit link
+2019-04-21 10:10:47 INFO  BaseClass:177 - Verify that user is navigated to respective Field access control
+2019-04-21 10:10:47 INFO  BaseClass:181 - user is navigated to Field access control Page: Technical Recruiter
+2019-04-21 10:10:47 INFO  BaseClass:188 - Verify user clicks on Client Bill Rate/salary None Button 
+2019-04-21 10:10:48 INFO  BaseClass:215 - Click on User Account
+2019-04-21 10:10:48 INFO  BaseClass:77 - Close the browser
+2019-04-21 10:10:50 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 10:12:39 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 10:12:39 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 10:12:43 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 10:12:44 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 10:13:18 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 10:13:18 INFO  BaseClass:59 - Go to CEIPAL Login Page
+2019-04-21 10:13:18 INFO  BaseClass:61 - Login with Admin credentails
+2019-04-21 10:13:18 INFO  BaseClass:78 - input Username :ceipal87@gmail.com
+2019-04-21 10:13:19 INFO  BaseClass:80 - click on Next Button
+2019-04-21 10:13:19 INFO  BaseClass:84 - input Password :Admin@123#
+2019-04-21 10:13:19 INFO  BaseClass:86 - click on Sigin Button
+2019-04-21 10:13:27 INFO  BaseClass:89 - Verify that User is logged in successfully to Home Page
+2019-04-21 10:13:27 INFO  BaseClass:95 - Click on User Account
+2019-04-21 10:13:28 INFO  BaseClass:99 - Verify the User Context
+2019-04-21 10:13:28 INFO  BaseClass:101 - User Type is:Administrator
+2019-04-21 10:13:28 INFO  BaseClass:109 - Click on setup button
+2019-04-21 10:13:30 INFO  BaseClass:114 - Input the search valueaccess
+2019-04-21 10:13:30 INFO  BaseClass:118 - Click on access control link
+2019-04-21 10:13:34 INFO  BaseClass:122 - Verify the user is navigated to Access control Page
+2019-04-21 10:13:34 INFO  BaseClass:74 - Select Security Permission from the dropdown
+2019-04-21 10:13:35 INFO  BaseClass:132 - Verify the security permission drop down
+2019-04-21 10:13:36 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 10:13:36 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 10:13:36 INFO  BaseClass:143 - Verify that user clicked on Job posting value
+2019-04-21 10:13:40 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 10:13:40 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 10:13:40 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 10:13:40 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 10:13:40 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 10:13:40 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 10:13:40 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 10:13:40 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 10:13:40 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 10:13:40 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 10:13:40 INFO  BaseClass:156 - Verify that user role is selected from the Access control Page
+2019-04-21 10:13:42 INFO  BaseClass:163 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 10:13:42 INFO  BaseClass:163 - Verify user role from the Access control table and it is :Hiring Manager
+2019-04-21 10:13:42 INFO  BaseClass:163 - Verify user role from the Access control table and it is :Technical Recruiter
+2019-04-21 10:13:42 INFO  BaseClass:166 - Verify user clicks on edit link
+2019-04-21 10:13:47 INFO  BaseClass:177 - Verify that user is navigated to respective Field access control
+2019-04-21 10:13:47 INFO  BaseClass:181 - user is navigated to Field access control Page: Technical Recruiter
+2019-04-21 10:13:47 INFO  BaseClass:188 - Verify user clicks on Client Bill Rate/salary None Button 
+2019-04-21 10:13:47 INFO  BaseClass:215 - Click on User Account
+2019-04-21 10:13:47 INFO  BaseClass:77 - Close the browser
+2019-04-21 10:13:50 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 10:14:58 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 10:14:58 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 10:15:01 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 10:15:03 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 10:15:35 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 10:15:36 INFO  BaseClass:59 - Go to CEIPAL Login Page
+2019-04-21 10:15:36 INFO  BaseClass:61 - Login with Admin credentails
+2019-04-21 10:15:36 INFO  BaseClass:78 - input Username :ceipal87@gmail.com
+2019-04-21 10:15:36 INFO  BaseClass:80 - click on Next Button
+2019-04-21 10:15:37 INFO  BaseClass:84 - input Password :Admin@123#
+2019-04-21 10:15:37 INFO  BaseClass:86 - click on Sigin Button
+2019-04-21 10:15:44 INFO  BaseClass:89 - Verify that User is logged in successfully to Home Page
+2019-04-21 10:15:44 INFO  BaseClass:95 - Click on User Account
+2019-04-21 10:15:44 INFO  BaseClass:99 - Verify the User Context
+2019-04-21 10:15:44 INFO  BaseClass:101 - User Type is:Administrator
+2019-04-21 10:15:44 INFO  BaseClass:109 - Click on setup button
+2019-04-21 10:15:46 INFO  BaseClass:114 - Input the search valueaccess
+2019-04-21 10:15:47 INFO  BaseClass:118 - Click on access control link
+2019-04-21 10:15:50 INFO  BaseClass:122 - Verify the user is navigated to Access control Page
+2019-04-21 10:15:50 INFO  BaseClass:74 - Select Security Permission from the dropdown
+2019-04-21 10:15:52 INFO  BaseClass:132 - Verify the security permission drop down
+2019-04-21 10:15:52 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 10:15:52 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 10:15:52 INFO  BaseClass:143 - Verify that user clicked on Job posting value
+2019-04-21 10:15:56 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 10:15:56 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 10:15:56 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 10:15:56 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 10:15:56 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 10:15:56 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 10:15:56 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 10:15:56 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 10:15:56 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 10:15:56 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 10:15:56 INFO  BaseClass:156 - Verify that user role is selected from the Access control Page
+2019-04-21 10:15:58 INFO  BaseClass:163 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 10:15:58 INFO  BaseClass:163 - Verify user role from the Access control table and it is :Hiring Manager
+2019-04-21 10:15:58 INFO  BaseClass:163 - Verify user role from the Access control table and it is :Technical Recruiter
+2019-04-21 10:15:58 INFO  BaseClass:166 - Verify user clicks on edit link
+2019-04-21 10:16:03 INFO  BaseClass:177 - Verify that user is navigated to respective Field access control
+2019-04-21 10:16:03 INFO  BaseClass:181 - user is navigated to Field access control Page: Technical Recruiter
+2019-04-21 10:16:03 INFO  BaseClass:188 - Verify user clicks on Client Bill Rate/salary None Button 
+2019-04-21 10:16:04 INFO  BaseClass:215 - Click on User Account
+2019-04-21 10:16:04 INFO  BaseClass:77 - Close the browser
+2019-04-21 10:16:06 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 10:20:53 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 10:20:53 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 10:20:57 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 10:20:58 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 10:21:34 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 10:21:35 INFO  BaseClass:59 - Go to CEIPAL Login Page
+2019-04-21 10:21:35 INFO  BaseClass:61 - Login with Admin credentails
+2019-04-21 10:21:35 INFO  BaseClass:78 - input Username :ceipal87@gmail.com
+2019-04-21 10:21:35 INFO  BaseClass:80 - click on Next Button
+2019-04-21 10:21:36 INFO  BaseClass:84 - input Password :Admin@123#
+2019-04-21 10:21:36 INFO  BaseClass:86 - click on Sigin Button
+2019-04-21 10:21:43 INFO  BaseClass:89 - Verify that User is logged in successfully to Home Page
+2019-04-21 10:21:43 INFO  BaseClass:95 - Click on User Account
+2019-04-21 10:21:43 INFO  BaseClass:99 - Verify the User Context
+2019-04-21 10:21:43 INFO  BaseClass:101 - User Type is:Administrator
+2019-04-21 10:21:43 INFO  BaseClass:109 - Click on setup button
+2019-04-21 10:21:46 INFO  BaseClass:114 - Input the search valueaccess
+2019-04-21 10:21:47 INFO  BaseClass:118 - Click on access control link
+2019-04-21 10:21:50 INFO  BaseClass:122 - Verify the user is navigated to Access control Page
+2019-04-21 10:21:50 INFO  BaseClass:74 - Select Security Permission from the dropdown
+2019-04-21 10:21:51 INFO  BaseClass:132 - Verify the security permission drop down
+2019-04-21 10:21:51 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 10:21:51 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 10:21:51 INFO  BaseClass:143 - Verify that user clicked on Job posting value
+2019-04-21 10:21:55 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 10:21:55 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 10:21:55 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 10:21:55 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 10:21:55 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 10:21:55 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 10:21:55 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 10:21:55 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 10:21:55 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 10:21:55 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 10:21:55 INFO  BaseClass:156 - Verify that user role is selected from the Access control Page
+2019-04-21 10:21:57 INFO  BaseClass:163 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 10:21:57 INFO  BaseClass:163 - Verify user role from the Access control table and it is :Hiring Manager
+2019-04-21 10:21:57 INFO  BaseClass:163 - Verify user role from the Access control table and it is :Technical Recruiter
+2019-04-21 10:21:57 INFO  BaseClass:166 - Verify user clicks on edit link
+2019-04-21 10:22:02 INFO  BaseClass:177 - Verify that user is navigated to respective Field access control
+2019-04-21 10:22:02 INFO  BaseClass:181 - user is navigated to Field access control Page: Technical Recruiter
+2019-04-21 10:22:02 INFO  BaseClass:188 - Verify user clicks on Client Bill Rate/salary None Button 
+2019-04-21 10:22:03 INFO  BaseClass:215 - Click on User Account
+2019-04-21 10:23:09 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 10:23:09 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 10:23:13 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 10:23:14 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 10:23:47 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 10:23:48 INFO  BaseClass:59 - Go to CEIPAL Login Page
+2019-04-21 10:23:48 INFO  BaseClass:61 - Login with Admin credentails
+2019-04-21 10:23:48 INFO  BaseClass:78 - input Username :ceipal87@gmail.com
+2019-04-21 10:23:48 INFO  BaseClass:80 - click on Next Button
+2019-04-21 10:23:49 INFO  BaseClass:84 - input Password :Admin@123#
+2019-04-21 10:23:49 INFO  BaseClass:86 - click on Sigin Button
+2019-04-21 10:23:56 INFO  BaseClass:89 - Verify that User is logged in successfully to Home Page
+2019-04-21 10:23:56 INFO  BaseClass:95 - Click on User Account
+2019-04-21 10:23:56 INFO  BaseClass:99 - Verify the User Context
+2019-04-21 10:23:56 INFO  BaseClass:101 - User Type is:Administrator
+2019-04-21 10:23:56 INFO  BaseClass:109 - Click on setup button
+2019-04-21 10:23:58 INFO  BaseClass:114 - Input the search valueaccess
+2019-04-21 10:23:59 INFO  BaseClass:118 - Click on access control link
+2019-04-21 10:24:02 INFO  BaseClass:122 - Verify the user is navigated to Access control Page
+2019-04-21 10:24:02 INFO  BaseClass:74 - Select Security Permission from the dropdown
+2019-04-21 10:24:03 INFO  BaseClass:132 - Verify the security permission drop down
+2019-04-21 10:24:03 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 10:24:03 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 10:24:03 INFO  BaseClass:143 - Verify that user clicked on Job posting value
+2019-04-21 10:24:07 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 10:24:07 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 10:24:07 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 10:24:07 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 10:24:07 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 10:24:07 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 10:24:07 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 10:24:07 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 10:24:07 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 10:24:07 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 10:24:07 INFO  BaseClass:156 - Verify that user role is selected from the Access control Page
+2019-04-21 10:24:09 INFO  BaseClass:163 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 10:24:09 INFO  BaseClass:163 - Verify user role from the Access control table and it is :Hiring Manager
+2019-04-21 10:24:09 INFO  BaseClass:163 - Verify user role from the Access control table and it is :Technical Recruiter
+2019-04-21 10:24:09 INFO  BaseClass:166 - Verify user clicks on edit link
+2019-04-21 10:24:14 INFO  BaseClass:177 - Verify that user is navigated to respective Field access control
+2019-04-21 10:24:14 INFO  BaseClass:181 - user is navigated to Field access control Page: Technical Recruiter
+2019-04-21 10:24:14 INFO  BaseClass:188 - Verify user clicks on Client Bill Rate/salary None Button 
+2019-04-21 10:24:15 INFO  BaseClass:215 - Click on User Account
+2019-04-21 10:24:17 INFO  BaseClass:221 - Click on SignOut button
+2019-04-21 10:24:20 INFO  BaseClass:77 - Close the browser
+2019-04-21 10:24:22 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 10:24:46 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 10:24:46 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 10:24:50 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 10:24:51 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 10:25:24 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 10:25:24 INFO  BaseClass:59 - Go to CEIPAL Login Page
+2019-04-21 10:25:24 INFO  BaseClass:61 - Login with Admin credentails
+2019-04-21 10:25:24 INFO  BaseClass:78 - input Username :ceipal87@gmail.com
+2019-04-21 10:25:24 INFO  BaseClass:80 - click on Next Button
+2019-04-21 10:25:25 INFO  BaseClass:84 - input Password :Admin@123#
+2019-04-21 10:25:25 INFO  BaseClass:86 - click on Sigin Button
+2019-04-21 10:25:32 INFO  BaseClass:89 - Verify that User is logged in successfully to Home Page
+2019-04-21 10:25:32 INFO  BaseClass:95 - Click on User Account
+2019-04-21 10:25:32 INFO  BaseClass:99 - Verify the User Context
+2019-04-21 10:25:33 INFO  BaseClass:101 - User Type is:Administrator
+2019-04-21 10:25:33 INFO  BaseClass:109 - Click on setup button
+2019-04-21 10:25:34 INFO  BaseClass:114 - Input the search valueaccess
+2019-04-21 10:25:35 INFO  BaseClass:118 - Click on access control link
+2019-04-21 10:25:39 INFO  BaseClass:122 - Verify the user is navigated to Access control Page
+2019-04-21 10:25:39 INFO  BaseClass:74 - Select Security Permission from the dropdown
+2019-04-21 10:25:41 INFO  BaseClass:132 - Verify the security permission drop down
+2019-04-21 10:25:41 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 10:25:41 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 10:25:41 INFO  BaseClass:143 - Verify that user clicked on Job posting value
+2019-04-21 10:25:45 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 10:25:45 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 10:25:45 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 10:25:45 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 10:25:45 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 10:25:45 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 10:25:45 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 10:25:45 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 10:25:45 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 10:25:45 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 10:25:45 INFO  BaseClass:156 - Verify that user role is selected from the Access control Page
+2019-04-21 10:25:47 INFO  BaseClass:163 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 10:25:47 INFO  BaseClass:163 - Verify user role from the Access control table and it is :Hiring Manager
+2019-04-21 10:25:47 INFO  BaseClass:163 - Verify user role from the Access control table and it is :Technical Recruiter
+2019-04-21 10:25:47 INFO  BaseClass:166 - Verify user clicks on edit link
+2019-04-21 10:25:52 INFO  BaseClass:177 - Verify that user is navigated to respective Field access control
+2019-04-21 10:25:52 INFO  BaseClass:181 - user is navigated to Field access control Page: Technical Recruiter
+2019-04-21 10:25:52 INFO  BaseClass:188 - Verify user clicks on Client Bill Rate/salary None Button 
+2019-04-21 10:25:52 INFO  BaseClass:215 - Click on User Account
+2019-04-21 10:25:55 INFO  BaseClass:221 - Click on SignOut button
+2019-04-21 10:25:57 INFO  BaseClass:77 - Close the browser
+2019-04-21 10:26:00 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 10:26:00 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 10:26:02 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 10:26:03 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 10:26:36 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 10:26:36 INFO  BaseClass:59 - Go to CEIPAL Login Page
+2019-04-21 10:26:36 INFO  BaseClass:61 - Login with Admin credentails
+2019-04-21 10:26:36 INFO  BaseClass:78 - input Username :ceipal87@gmail.com
+2019-04-21 10:26:36 INFO  BaseClass:80 - click on Next Button
+2019-04-21 10:26:37 INFO  BaseClass:84 - input Password :Admin@123#
+2019-04-21 10:26:37 INFO  BaseClass:86 - click on Sigin Button
+2019-04-21 10:26:43 INFO  BaseClass:89 - Verify that User is logged in successfully to Home Page
+2019-04-21 10:26:43 INFO  BaseClass:95 - Click on User Account
+2019-04-21 10:26:44 INFO  BaseClass:99 - Verify the User Context
+2019-04-21 10:26:44 INFO  BaseClass:101 - User Type is:Administrator
+2019-04-21 10:26:44 INFO  BaseClass:109 - Click on setup button
+2019-04-21 10:26:46 INFO  BaseClass:114 - Input the search valueaccess
+2019-04-21 10:26:47 INFO  BaseClass:118 - Click on access control link
+2019-04-21 10:26:50 INFO  BaseClass:122 - Verify the user is navigated to Access control Page
+2019-04-21 10:26:50 INFO  BaseClass:74 - Select Security Permission from the dropdown
+2019-04-21 10:26:52 INFO  BaseClass:132 - Verify the security permission drop down
+2019-04-21 10:26:52 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 10:26:52 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 10:26:52 INFO  BaseClass:143 - Verify that user clicked on Job posting value
+2019-04-21 10:26:56 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 10:26:56 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 10:26:56 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 10:26:56 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 10:26:56 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 10:26:56 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 10:26:57 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 10:26:57 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 10:26:57 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 10:26:57 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 10:26:57 INFO  BaseClass:156 - Verify that user role is selected from the Access control Page
+2019-04-21 10:26:59 INFO  BaseClass:163 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 10:26:59 INFO  BaseClass:163 - Verify user role from the Access control table and it is :Hiring Manager
+2019-04-21 10:26:59 INFO  BaseClass:163 - Verify user role from the Access control table and it is :Technical Recruiter
+2019-04-21 10:26:59 INFO  BaseClass:166 - Verify user clicks on edit link
+2019-04-21 10:27:26 INFO  BaseClass:177 - Verify that user is navigated to respective Field access control
+2019-04-21 10:27:27 INFO  BaseClass:181 - user is navigated to Field access control Page: HR Manager
+2019-04-21 10:27:37 INFO  BaseClass:77 - Close the browser
+2019-04-21 10:27:39 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 10:27:39 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 10:27:41 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 10:27:42 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 10:28:15 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 10:28:15 INFO  BaseClass:59 - Go to CEIPAL Login Page
+2019-04-21 10:28:15 INFO  BaseClass:61 - Login with Admin credentails
+2019-04-21 10:28:15 INFO  BaseClass:78 - input Username :ceipal87@gmail.com
+2019-04-21 10:28:15 INFO  BaseClass:80 - click on Next Button
+2019-04-21 10:28:16 INFO  BaseClass:84 - input Password :Admin@123#
+2019-04-21 10:28:16 INFO  BaseClass:86 - click on Sigin Button
+2019-04-21 10:28:24 INFO  BaseClass:89 - Verify that User is logged in successfully to Home Page
+2019-04-21 10:28:24 INFO  BaseClass:95 - Click on User Account
+2019-04-21 10:28:24 INFO  BaseClass:99 - Verify the User Context
+2019-04-21 10:28:24 INFO  BaseClass:101 - User Type is:Administrator
+2019-04-21 10:28:24 INFO  BaseClass:109 - Click on setup button
+2019-04-21 10:28:26 INFO  BaseClass:114 - Input the search valueaccess
+2019-04-21 10:28:27 INFO  BaseClass:118 - Click on access control link
+2019-04-21 10:28:30 INFO  BaseClass:122 - Verify the user is navigated to Access control Page
+2019-04-21 10:28:30 INFO  BaseClass:74 - Select Security Permission from the dropdown
+2019-04-21 10:28:32 INFO  BaseClass:132 - Verify the security permission drop down
+2019-04-21 10:28:32 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 10:28:32 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 10:28:32 INFO  BaseClass:143 - Verify that user clicked on Job posting value
+2019-04-21 10:28:36 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 10:28:36 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 10:28:36 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 10:28:36 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 10:28:36 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 10:28:36 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 10:28:36 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 10:28:36 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 10:28:36 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 10:28:36 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 10:28:36 INFO  BaseClass:156 - Verify that user role is selected from the Access control Page
+2019-04-21 10:28:39 INFO  BaseClass:163 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 10:28:39 INFO  BaseClass:163 - Verify user role from the Access control table and it is :Hiring Manager
+2019-04-21 10:28:39 INFO  BaseClass:163 - Verify user role from the Access control table and it is :Technical Recruiter
+2019-04-21 10:28:39 INFO  BaseClass:166 - Verify user clicks on edit link
+2019-04-21 10:28:43 INFO  BaseClass:177 - Verify that user is navigated to respective Field access control
+2019-04-21 10:28:43 INFO  BaseClass:181 - user is navigated to Field access control Page: Technical Recruiter
+2019-04-21 10:28:44 INFO  BaseClass:188 - Verify user clicks on Client Bill Rate/salary None Button 
+2019-04-21 10:28:44 INFO  BaseClass:215 - Click on User Account
+2019-04-21 10:28:46 INFO  BaseClass:221 - Click on SignOut button
+2019-04-21 10:28:48 INFO  BaseClass:77 - Close the browser
+2019-04-21 10:28:49 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 10:39:00 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 10:39:01 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 10:39:04 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 10:39:05 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 10:39:39 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 10:39:40 INFO  BaseClass:60 - Go to CEIPAL Login Page
+2019-04-21 10:39:40 INFO  BaseClass:62 - Login with Admin credentails
+2019-04-21 10:39:40 INFO  BaseClass:78 - input Username :ceipal87@gmail.com
+2019-04-21 10:39:40 INFO  BaseClass:80 - click on Next Button
+2019-04-21 10:39:41 INFO  BaseClass:84 - input Password :Admin@123#
+2019-04-21 10:39:41 INFO  BaseClass:86 - click on Sigin Button
+2019-04-21 10:39:48 INFO  BaseClass:89 - Verify that User is logged in successfully to Home Page
+2019-04-21 10:39:48 INFO  BaseClass:95 - Click on User Account
+2019-04-21 10:39:48 INFO  BaseClass:99 - Verify the User Context
+2019-04-21 10:39:48 INFO  BaseClass:101 - User Type is:Administrator
+2019-04-21 10:39:48 INFO  BaseClass:109 - Click on setup button
+2019-04-21 10:39:50 INFO  BaseClass:114 - Input the search valueaccess
+2019-04-21 10:39:51 INFO  BaseClass:118 - Click on access control link
+2019-04-21 10:39:55 INFO  BaseClass:122 - Verify the user is navigated to Access control Page
+2019-04-21 10:39:55 INFO  BaseClass:75 - Select Security Permission from the dropdown
+2019-04-21 10:39:56 INFO  BaseClass:132 - Verify the security permission drop down
+2019-04-21 10:39:56 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 10:39:56 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 10:39:56 INFO  BaseClass:143 - Verify that user clicked on Job posting value
+2019-04-21 10:40:01 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 10:40:01 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 10:40:01 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 10:40:01 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 10:40:01 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 10:40:01 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 10:40:01 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 10:40:01 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 10:40:01 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 10:40:01 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 10:40:01 INFO  BaseClass:79 - Select User role as Technical Recruiter
+2019-04-21 10:40:01 INFO  BaseClass:156 - Verify that user role is selected from the Access control Page
+2019-04-21 10:40:03 INFO  BaseClass:163 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 10:40:03 INFO  BaseClass:163 - Verify user role from the Access control table and it is :Hiring Manager
+2019-04-21 10:40:03 INFO  BaseClass:163 - Verify user role from the Access control table and it is :Technical Recruiter
+2019-04-21 10:40:03 INFO  BaseClass:166 - Verify user clicks on edit link
+2019-04-21 10:40:08 INFO  BaseClass:177 - Verify that user is navigated to respective Field access control
+2019-04-21 10:40:08 INFO  BaseClass:181 - user is navigated to Field access control Page: Technical Recruiter
+2019-04-21 10:40:08 INFO  BaseClass:188 - Verify user clicks on Client Bill Rate/salary None Button 
+2019-04-21 10:40:08 INFO  BaseClass:83 - click on signout button
+2019-04-21 10:40:08 INFO  BaseClass:215 - Click on User Account
+2019-04-21 10:40:10 INFO  BaseClass:221 - Click on SignOut button
+2019-04-21 10:40:13 INFO  BaseClass:77 - Close the browser
+2019-04-21 10:40:13 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 10:58:42 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 10:58:42 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 10:58:46 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 10:58:47 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 10:59:22 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 10:59:22 INFO  BaseClass:99 - Go to CEIPAL Login Page
+2019-04-21 10:59:22 INFO  BaseClass:101 - Login with Admin credentails
+2019-04-21 10:59:22 INFO  BaseClass:75 - input Username :talenthire77@gmail.com
+2019-04-21 10:59:23 INFO  BaseClass:77 - click on Next Button
+2019-04-21 10:59:23 INFO  BaseClass:81 - input Password :Admin@123#
+2019-04-21 10:59:24 INFO  BaseClass:83 - click on Sigin Button
+2019-04-21 10:59:30 INFO  BaseClass:86 - Verify that User is logged in successfully to Home Page
+2019-04-21 10:59:30 INFO  BaseClass:92 - Click on User Account
+2019-04-21 10:59:31 INFO  BaseClass:96 - Verify the User Context
+2019-04-21 10:59:31 INFO  BaseClass:98 - User Type is:Technical Recruiter
+2019-04-21 10:59:31 INFO  BaseClass:77 - Close the browser
+2019-04-21 10:59:33 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 11:00:28 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 11:00:28 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 11:00:32 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 11:00:33 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 11:01:07 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 11:01:08 INFO  BaseClass:99 - Go to CEIPAL Login Page
+2019-04-21 11:01:08 INFO  BaseClass:101 - Login with Admin credentails
+2019-04-21 11:01:08 INFO  BaseClass:75 - input Username :talenthire77@gmail.com
+2019-04-21 11:01:08 INFO  BaseClass:77 - click on Next Button
+2019-04-21 11:01:09 INFO  BaseClass:81 - input Password :Admin@123#
+2019-04-21 11:01:09 INFO  BaseClass:83 - click on Sigin Button
+2019-04-21 11:01:17 INFO  BaseClass:86 - Verify that User is logged in successfully to Home Page
+2019-04-21 11:01:17 INFO  BaseClass:92 - Click on User Account
+2019-04-21 11:01:17 INFO  BaseClass:96 - Verify the User Context
+2019-04-21 11:01:17 INFO  BaseClass:98 - User Type is:Technical Recruiter
+2019-04-21 11:01:59 INFO  BaseClass:77 - Close the browser
+2019-04-21 11:02:01 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 11:06:08 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 11:06:08 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 11:06:11 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 11:06:13 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 11:07:17 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 11:07:18 INFO  BaseClass:60 - Go to CEIPAL Login Page
+2019-04-21 11:07:18 INFO  BaseClass:62 - Login with Admin credentails
+2019-04-21 11:07:18 INFO  BaseClass:78 - input Username :ceipal87@gmail.com
+2019-04-21 11:07:18 INFO  BaseClass:80 - click on Next Button
+2019-04-21 11:07:19 INFO  BaseClass:84 - input Password :Admin@123#
+2019-04-21 11:07:19 INFO  BaseClass:86 - click on Sigin Button
+2019-04-21 11:07:25 INFO  BaseClass:89 - Verify that User is logged in successfully to Home Page
+2019-04-21 11:07:25 INFO  BaseClass:95 - Click on User Account
+2019-04-21 11:07:25 INFO  BaseClass:99 - Verify the User Context
+2019-04-21 11:07:26 INFO  BaseClass:101 - User Type is:Administrator
+2019-04-21 11:07:26 INFO  BaseClass:109 - Click on setup button
+2019-04-21 11:07:27 INFO  BaseClass:114 - Input the search valueaccess
+2019-04-21 11:07:28 INFO  BaseClass:118 - Click on access control link
+2019-04-21 11:07:32 INFO  BaseClass:122 - Verify the user is navigated to Access control Page
+2019-04-21 11:07:32 INFO  BaseClass:75 - Select Security Permission from the dropdown
+2019-04-21 11:07:33 INFO  BaseClass:132 - Verify the security permission drop down
+2019-04-21 11:07:33 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 11:07:33 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 11:07:33 INFO  BaseClass:143 - Verify that user clicked on Job posting value
+2019-04-21 11:07:38 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 11:07:38 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 11:07:38 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 11:07:38 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 11:07:38 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 11:07:38 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 11:07:38 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 11:07:38 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 11:07:38 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 11:07:38 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 11:07:38 INFO  BaseClass:79 - Select User role as Technical Recruiter
+2019-04-21 11:07:38 INFO  BaseClass:156 - Verify that user role is selected from the Access control Page
+2019-04-21 11:07:40 INFO  BaseClass:163 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 11:07:40 INFO  BaseClass:163 - Verify user role from the Access control table and it is :Hiring Manager
+2019-04-21 11:07:40 INFO  BaseClass:163 - Verify user role from the Access control table and it is :Technical Recruiter
+2019-04-21 11:07:40 INFO  BaseClass:166 - Verify user clicks on edit link
+2019-04-21 11:07:45 INFO  BaseClass:177 - Verify that user is navigated to respective Field access control
+2019-04-21 11:07:45 INFO  BaseClass:181 - user is navigated to Field access control Page: Technical Recruiter
+2019-04-21 11:07:45 INFO  BaseClass:188 - Verify user clicks on Client Bill Rate/salary None Button 
+2019-04-21 11:07:45 INFO  BaseClass:83 - click on signout button
+2019-04-21 11:07:45 INFO  BaseClass:215 - Click on User Account
+2019-04-21 11:07:47 INFO  BaseClass:221 - Click on SignOut button
+2019-04-21 11:07:50 INFO  BaseClass:77 - Close the browser
+2019-04-21 11:07:50 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 11:07:50 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 11:07:53 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 11:07:54 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 11:08:27 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 11:08:27 INFO  BaseClass:99 - Go to CEIPAL Login Page
+2019-04-21 11:08:27 INFO  BaseClass:101 - Login with Admin credentails
+2019-04-21 11:08:27 INFO  BaseClass:75 - input Username :talenthire77@gmail.com
+2019-04-21 11:08:27 INFO  BaseClass:77 - click on Next Button
+2019-04-21 11:08:28 INFO  BaseClass:81 - input Password :Admin@123#
+2019-04-21 11:08:28 INFO  BaseClass:83 - click on Sigin Button
+2019-04-21 11:08:36 INFO  BaseClass:86 - Verify that User is logged in successfully to Home Page
+2019-04-21 11:08:36 INFO  BaseClass:92 - Click on User Account
+2019-04-21 11:08:36 INFO  BaseClass:96 - Verify the User Context
+2019-04-21 11:08:37 INFO  BaseClass:98 - User Type is:Technical Recruiter
+2019-04-21 11:08:37 INFO  BaseClass:111 - Go to Job Posting page and verify the pay Rate label
+2019-04-21 11:08:37 INFO  BaseClass:105 - Click on Job Posting
+2019-04-21 11:08:41 INFO  BaseClass:109 - Click on New Button
+2019-04-21 11:08:46 INFO  BaseClass:112 - Click on Create Manually
+2019-04-21 11:08:47 INFO  BaseClass:116 - Verify the Label
+2019-04-21 11:08:48 INFO  BaseClass:119 - Verify the Label and the label is :Pay Rate/Salary
+2019-04-21 11:08:48 INFO  BaseClass:77 - Close the browser
+2019-04-21 11:08:50 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 11:11:44 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 11:11:44 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 11:11:48 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 11:11:49 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 11:12:20 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 11:12:21 INFO  BaseClass:60 - Go to CEIPAL Login Page
+2019-04-21 11:12:21 INFO  BaseClass:62 - Login with Admin credentails
+2019-04-21 11:12:21 INFO  BaseClass:78 - input Username :ceipal87@gmail.com
+2019-04-21 11:12:21 INFO  BaseClass:80 - click on Next Button
+2019-04-21 11:12:22 INFO  BaseClass:84 - input Password :Admin@123#
+2019-04-21 11:12:22 INFO  BaseClass:86 - click on Sigin Button
+2019-04-21 11:12:27 INFO  BaseClass:89 - Verify that User is logged in successfully to Home Page
+2019-04-21 11:12:27 INFO  BaseClass:95 - Click on User Account
+2019-04-21 11:12:28 INFO  BaseClass:99 - Verify the User Context
+2019-04-21 11:12:28 INFO  BaseClass:101 - User Type is:Administrator
+2019-04-21 11:12:28 INFO  BaseClass:109 - Click on setup button
+2019-04-21 11:12:30 INFO  BaseClass:114 - Input the search valueaccess
+2019-04-21 11:12:30 INFO  BaseClass:118 - Click on access control link
+2019-04-21 11:12:34 INFO  BaseClass:122 - Verify the user is navigated to Access control Page
+2019-04-21 11:12:34 INFO  BaseClass:75 - Select Security Permission from the dropdown
+2019-04-21 11:12:34 INFO  BaseClass:132 - Verify the security permission drop down
+2019-04-21 11:12:34 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 11:12:34 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 11:12:34 INFO  BaseClass:143 - Verify that user clicked on Job posting value
+2019-04-21 11:12:39 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 11:12:39 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 11:12:39 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 11:12:39 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 11:12:39 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 11:12:39 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 11:12:39 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 11:12:39 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 11:12:39 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 11:12:39 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 11:12:39 INFO  BaseClass:79 - Select User role as Technical Recruiter
+2019-04-21 11:12:39 INFO  BaseClass:156 - Verify that user role is selected from the Access control Page
+2019-04-21 11:12:41 INFO  BaseClass:163 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 11:12:41 INFO  BaseClass:163 - Verify user role from the Access control table and it is :Hiring Manager
+2019-04-21 11:12:41 INFO  BaseClass:163 - Verify user role from the Access control table and it is :Technical Recruiter
+2019-04-21 11:12:41 INFO  BaseClass:166 - Verify user clicks on edit link
+2019-04-21 11:12:46 INFO  BaseClass:177 - Verify that user is navigated to respective Field access control
+2019-04-21 11:12:46 INFO  BaseClass:181 - user is navigated to Field access control Page: Technical Recruiter
+2019-04-21 11:12:46 INFO  BaseClass:188 - Verify user clicks on Client Bill Rate/salary None Button 
+2019-04-21 11:12:46 INFO  BaseClass:77 - Close the browser
+2019-04-21 11:12:49 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 11:14:51 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 11:14:51 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 11:14:55 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 11:14:56 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 11:15:31 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 11:15:31 INFO  BaseClass:60 - Go to CEIPAL Login Page
+2019-04-21 11:15:31 INFO  BaseClass:62 - Login with Admin credentails
+2019-04-21 11:15:31 INFO  BaseClass:78 - input Username :ceipal87@gmail.com
+2019-04-21 11:15:31 INFO  BaseClass:80 - click on Next Button
+2019-04-21 11:15:32 INFO  BaseClass:84 - input Password :Admin@123#
+2019-04-21 11:15:32 INFO  BaseClass:86 - click on Sigin Button
+2019-04-21 11:15:39 INFO  BaseClass:89 - Verify that User is logged in successfully to Home Page
+2019-04-21 11:15:39 INFO  BaseClass:95 - Click on User Account
+2019-04-21 11:15:40 INFO  BaseClass:99 - Verify the User Context
+2019-04-21 11:15:40 INFO  BaseClass:101 - User Type is:Administrator
+2019-04-21 11:15:40 INFO  BaseClass:109 - Click on setup button
+2019-04-21 11:15:41 INFO  BaseClass:114 - Input the search valueaccess
+2019-04-21 11:15:42 INFO  BaseClass:118 - Click on access control link
+2019-04-21 11:15:46 INFO  BaseClass:122 - Verify the user is navigated to Access control Page
+2019-04-21 11:15:46 INFO  BaseClass:75 - Select Security Permission from the dropdown
+2019-04-21 11:15:47 INFO  BaseClass:132 - Verify the security permission drop down
+2019-04-21 11:15:47 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 11:15:47 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 11:15:47 INFO  BaseClass:143 - Verify that user clicked on Job posting value
+2019-04-21 11:15:52 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 11:15:52 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 11:15:52 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 11:15:52 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 11:15:52 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 11:15:52 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 11:15:52 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 11:15:52 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 11:15:52 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 11:15:52 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 11:15:52 INFO  BaseClass:79 - Select User role as Technical Recruiter
+2019-04-21 11:15:52 INFO  BaseClass:156 - Verify that user role is selected from the Access control Page
+2019-04-21 11:15:54 INFO  BaseClass:163 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 11:15:54 INFO  BaseClass:163 - Verify user role from the Access control table and it is :Hiring Manager
+2019-04-21 11:15:54 INFO  BaseClass:163 - Verify user role from the Access control table and it is :Technical Recruiter
+2019-04-21 11:15:54 INFO  BaseClass:166 - Verify user clicks on edit link
+2019-04-21 11:15:59 INFO  BaseClass:177 - Verify that user is navigated to respective Field access control
+2019-04-21 11:15:59 INFO  BaseClass:181 - user is navigated to Field access control Page: Technical Recruiter
+2019-04-21 11:15:59 INFO  BaseClass:188 - Verify user clicks on Client Bill Rate/salary None Button 
+2019-04-21 11:16:00 INFO  BaseClass:83 - click on signout button
+2019-04-21 11:16:00 INFO  BaseClass:217 - Click on User Account
+2019-04-21 11:16:03 INFO  BaseClass:223 - Click on SignOut button
+2019-04-21 11:16:05 INFO  BaseClass:77 - Close the browser
+2019-04-21 11:16:05 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 11:16:05 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 11:16:08 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 11:16:09 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 11:16:43 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 11:16:43 INFO  BaseClass:99 - Go to CEIPAL Login Page
+2019-04-21 11:16:43 INFO  BaseClass:101 - Login with Technical Recruiter credentails
+2019-04-21 11:16:43 INFO  BaseClass:75 - input Username :talenthire77@gmail.com
+2019-04-21 11:16:43 INFO  BaseClass:77 - click on Next Button
+2019-04-21 11:16:44 INFO  BaseClass:81 - input Password :Admin@123#
+2019-04-21 11:16:44 INFO  BaseClass:83 - click on Sigin Button
+2019-04-21 11:16:50 INFO  BaseClass:86 - Verify that User is logged in successfully to Home Page
+2019-04-21 11:16:50 INFO  BaseClass:92 - Click on User Account
+2019-04-21 11:16:50 INFO  BaseClass:96 - Verify the User Context
+2019-04-21 11:16:50 INFO  BaseClass:98 - User Type is:Technical Recruiter
+2019-04-21 11:16:50 INFO  BaseClass:111 - Go to Job Posting page and verify the pay Rate label
+2019-04-21 11:16:50 INFO  BaseClass:105 - Click on Job Posting
+2019-04-21 11:16:54 INFO  BaseClass:109 - Click on New Button
+2019-04-21 11:17:00 INFO  BaseClass:112 - Click on Create Manually
+2019-04-21 11:17:01 INFO  BaseClass:116 - Verify the Label
+2019-04-21 11:17:02 INFO  BaseClass:119 - Verify the Label and the label is :Pay Rate/Salary
+2019-04-21 11:17:02 INFO  BaseClass:77 - Close the browser
+2019-04-21 11:17:04 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 15:18:32 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 15:18:32 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 15:18:36 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 15:18:37 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 15:19:27 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 15:19:27 INFO  BaseClass:60 - Go to CEIPAL Login Page
+2019-04-21 15:19:27 INFO  BaseClass:62 - Login with Admin credentails
+2019-04-21 15:19:27 INFO  BaseClass:78 - input Username :ceipal87@gmail.com
+2019-04-21 15:19:28 INFO  BaseClass:80 - click on Next Button
+2019-04-21 15:19:28 INFO  BaseClass:84 - input Password :Admin@123#
+2019-04-21 15:19:29 INFO  BaseClass:86 - click on Sigin Button
+2019-04-21 15:19:48 INFO  BaseClass:89 - Verify that User is logged in successfully to Home Page
+2019-04-21 15:19:48 INFO  BaseClass:95 - Click on User Account
+2019-04-21 15:19:48 INFO  BaseClass:99 - Verify the User Context
+2019-04-21 15:19:48 INFO  BaseClass:101 - User Type is:Administrator
+2019-04-21 15:19:48 INFO  BaseClass:109 - Click on setup button
+2019-04-21 15:19:52 INFO  BaseClass:114 - Input the search valueaccess
+2019-04-21 15:19:53 INFO  BaseClass:118 - Click on access control link
+2019-04-21 15:19:59 INFO  BaseClass:122 - Verify the user is navigated to Access control Page
+2019-04-21 15:19:59 INFO  BaseClass:75 - Select Security Permission from the dropdown
+2019-04-21 15:20:00 INFO  BaseClass:132 - Verify the security permission drop down
+2019-04-21 15:20:00 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 15:20:00 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 15:20:00 INFO  BaseClass:143 - Verify that user clicked on Job posting value
+2019-04-21 15:20:05 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 15:20:05 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 15:20:05 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 15:20:05 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 15:20:05 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 15:20:05 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 15:20:05 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 15:20:05 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 15:20:05 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 15:20:05 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 15:20:05 INFO  BaseClass:79 - Select User role as Technical Recruiter
+2019-04-21 15:20:05 INFO  BaseClass:156 - Verify that user role is selected from the Access control Page
+2019-04-21 15:20:25 INFO  BaseClass:165 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 15:25:37 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 15:25:37 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 15:25:41 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 15:25:42 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 15:26:21 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 15:26:21 INFO  BaseClass:60 - Go to CEIPAL Login Page
+2019-04-21 15:26:21 INFO  BaseClass:62 - Login with Admin credentails
+2019-04-21 15:26:21 INFO  BaseClass:78 - input Username :ceipal87@gmail.com
+2019-04-21 15:26:22 INFO  BaseClass:80 - click on Next Button
+2019-04-21 15:26:22 INFO  BaseClass:84 - input Password :Admin@123#
+2019-04-21 15:26:23 INFO  BaseClass:86 - click on Sigin Button
+2019-04-21 15:26:40 INFO  BaseClass:89 - Verify that User is logged in successfully to Home Page
+2019-04-21 15:26:40 INFO  BaseClass:95 - Click on User Account
+2019-04-21 15:26:40 INFO  BaseClass:99 - Verify the User Context
+2019-04-21 15:26:40 INFO  BaseClass:101 - User Type is:Administrator
+2019-04-21 15:26:40 INFO  BaseClass:109 - Click on setup button
+2019-04-21 15:26:43 INFO  BaseClass:114 - Input the search valueaccess
+2019-04-21 15:26:44 INFO  BaseClass:118 - Click on access control link
+2019-04-21 15:26:48 INFO  BaseClass:122 - Verify the user is navigated to Access control Page
+2019-04-21 15:26:48 INFO  BaseClass:75 - Select Security Permission from the dropdown
+2019-04-21 15:26:48 INFO  BaseClass:132 - Verify the security permission drop down
+2019-04-21 15:26:49 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 15:26:49 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 15:26:49 INFO  BaseClass:143 - Verify that user clicked on Job posting value
+2019-04-21 15:26:53 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 15:26:53 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 15:26:53 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 15:26:53 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 15:26:53 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 15:26:53 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 15:26:53 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 15:26:53 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 15:26:53 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 15:26:53 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 15:26:53 INFO  BaseClass:79 - Select User role as Technical Recruiter
+2019-04-21 15:26:53 INFO  BaseClass:157 - Verify that user role is selected from the Access control Page
+2019-04-21 15:30:45 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 15:30:45 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 15:30:49 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 15:30:50 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 15:31:32 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 15:31:33 INFO  BaseClass:60 - Go to CEIPAL Login Page
+2019-04-21 15:31:33 INFO  BaseClass:62 - Login with Admin credentails
+2019-04-21 15:31:33 INFO  BaseClass:78 - input Username :ceipal87@gmail.com
+2019-04-21 15:31:33 INFO  BaseClass:80 - click on Next Button
+2019-04-21 15:31:34 INFO  BaseClass:84 - input Password :Admin@123#
+2019-04-21 15:31:34 INFO  BaseClass:86 - click on Sigin Button
+2019-04-21 15:31:54 INFO  BaseClass:89 - Verify that User is logged in successfully to Home Page
+2019-04-21 15:31:54 INFO  BaseClass:95 - Click on User Account
+2019-04-21 15:31:54 INFO  BaseClass:99 - Verify the User Context
+2019-04-21 15:31:54 INFO  BaseClass:101 - User Type is:Administrator
+2019-04-21 15:31:54 INFO  BaseClass:109 - Click on setup button
+2019-04-21 15:31:56 INFO  BaseClass:114 - Input the search valueaccess
+2019-04-21 15:31:57 INFO  BaseClass:118 - Click on access control link
+2019-04-21 15:32:02 INFO  BaseClass:122 - Verify the user is navigated to Access control Page
+2019-04-21 15:32:02 INFO  BaseClass:75 - Select Security Permission from the dropdown
+2019-04-21 15:32:04 INFO  BaseClass:132 - Verify the security permission drop down
+2019-04-21 15:32:04 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 15:32:04 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 15:32:04 INFO  BaseClass:143 - Verify that user clicked on Job posting value
+2019-04-21 15:32:10 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 15:32:10 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 15:32:10 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 15:32:10 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 15:32:10 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 15:32:10 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 15:32:10 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 15:32:10 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 15:32:10 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 15:32:10 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 15:32:10 INFO  BaseClass:79 - Select User role as Technical Recruiter
+2019-04-21 15:32:10 INFO  BaseClass:157 - Verify that user role is selected from the Access control Page
+2019-04-21 15:33:13 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 15:33:13 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 15:33:17 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 15:33:18 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 15:34:01 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 15:34:01 INFO  BaseClass:60 - Go to CEIPAL Login Page
+2019-04-21 15:34:02 INFO  BaseClass:62 - Login with Admin credentails
+2019-04-21 15:34:02 INFO  BaseClass:78 - input Username :ceipal87@gmail.com
+2019-04-21 15:34:02 INFO  BaseClass:80 - click on Next Button
+2019-04-21 15:34:03 INFO  BaseClass:84 - input Password :Admin@123#
+2019-04-21 15:34:03 INFO  BaseClass:86 - click on Sigin Button
+2019-04-21 15:34:28 INFO  BaseClass:89 - Verify that User is logged in successfully to Home Page
+2019-04-21 15:34:28 INFO  BaseClass:95 - Click on User Account
+2019-04-21 15:34:28 INFO  BaseClass:99 - Verify the User Context
+2019-04-21 15:34:28 INFO  BaseClass:101 - User Type is:Administrator
+2019-04-21 15:34:28 INFO  BaseClass:109 - Click on setup button
+2019-04-21 15:34:31 INFO  BaseClass:114 - Input the search valueaccess
+2019-04-21 15:34:32 INFO  BaseClass:118 - Click on access control link
+2019-04-21 15:34:36 INFO  BaseClass:122 - Verify the user is navigated to Access control Page
+2019-04-21 15:34:36 INFO  BaseClass:75 - Select Security Permission from the dropdown
+2019-04-21 15:34:36 INFO  BaseClass:132 - Verify the security permission drop down
+2019-04-21 15:34:36 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 15:34:36 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 15:34:36 INFO  BaseClass:143 - Verify that user clicked on Job posting value
+2019-04-21 15:34:41 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 15:34:41 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 15:34:41 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 15:34:41 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 15:34:41 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 15:34:41 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 15:34:41 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 15:34:41 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 15:34:41 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 15:34:41 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 15:34:41 INFO  BaseClass:79 - Select User role as Technical Recruiter
+2019-04-21 15:34:41 INFO  BaseClass:157 - Verify that user role is selected from the Access control Page
+2019-04-21 15:35:04 INFO  BaseClass:169 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 15:35:11 INFO  BaseClass:169 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 15:35:15 INFO  BaseClass:169 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 15:40:10 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 15:40:11 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 15:40:14 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 15:40:15 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 15:40:55 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 15:40:56 INFO  BaseClass:60 - Go to CEIPAL Login Page
+2019-04-21 15:40:56 INFO  BaseClass:62 - Login with Admin credentails
+2019-04-21 15:40:56 INFO  BaseClass:78 - input Username :ceipal87@gmail.com
+2019-04-21 15:40:56 INFO  BaseClass:80 - click on Next Button
+2019-04-21 15:40:57 INFO  BaseClass:84 - input Password :Admin@123#
+2019-04-21 15:40:57 INFO  BaseClass:86 - click on Sigin Button
+2019-04-21 15:41:12 INFO  BaseClass:89 - Verify that User is logged in successfully to Home Page
+2019-04-21 15:41:12 INFO  BaseClass:95 - Click on User Account
+2019-04-21 15:41:12 INFO  BaseClass:99 - Verify the User Context
+2019-04-21 15:41:12 INFO  BaseClass:101 - User Type is:Administrator
+2019-04-21 15:41:12 INFO  BaseClass:109 - Click on setup button
+2019-04-21 15:41:15 INFO  BaseClass:114 - Input the search valueaccess
+2019-04-21 15:41:15 INFO  BaseClass:118 - Click on access control link
+2019-04-21 15:41:20 INFO  BaseClass:122 - Verify the user is navigated to Access control Page
+2019-04-21 15:41:20 INFO  BaseClass:75 - Select Security Permission from the dropdown
+2019-04-21 15:41:22 INFO  BaseClass:132 - Verify the security permission drop down
+2019-04-21 15:41:22 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 15:41:22 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 15:41:22 INFO  BaseClass:143 - Verify that user clicked on Job posting value
+2019-04-21 15:41:27 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 15:41:27 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 15:41:27 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 15:41:27 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 15:41:27 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 15:41:27 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 15:41:27 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 15:41:27 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 15:41:27 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 15:41:27 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 15:41:27 INFO  BaseClass:79 - Select User role as Technical Recruiter
+2019-04-21 15:41:27 INFO  BaseClass:158 - Verify that user role is selected from the Access control Page
+2019-04-21 15:42:17 INFO  BaseClass:174 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 15:43:38 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 15:43:39 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 15:43:42 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 15:43:43 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 15:44:27 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 15:44:28 INFO  BaseClass:60 - Go to CEIPAL Login Page
+2019-04-21 15:44:28 INFO  BaseClass:62 - Login with Admin credentails
+2019-04-21 15:44:28 INFO  BaseClass:78 - input Username :ceipal87@gmail.com
+2019-04-21 15:44:28 INFO  BaseClass:80 - click on Next Button
+2019-04-21 15:44:29 INFO  BaseClass:84 - input Password :Admin@123#
+2019-04-21 15:44:29 INFO  BaseClass:86 - click on Sigin Button
+2019-04-21 15:44:42 INFO  BaseClass:89 - Verify that User is logged in successfully to Home Page
+2019-04-21 15:44:42 INFO  BaseClass:95 - Click on User Account
+2019-04-21 15:44:42 INFO  BaseClass:99 - Verify the User Context
+2019-04-21 15:44:43 INFO  BaseClass:101 - User Type is:Administrator
+2019-04-21 15:44:43 INFO  BaseClass:109 - Click on setup button
+2019-04-21 15:44:45 INFO  BaseClass:114 - Input the search valueaccess
+2019-04-21 15:44:46 INFO  BaseClass:118 - Click on access control link
+2019-04-21 15:44:51 INFO  BaseClass:122 - Verify the user is navigated to Access control Page
+2019-04-21 15:44:51 INFO  BaseClass:75 - Select Security Permission from the dropdown
+2019-04-21 15:44:53 INFO  BaseClass:132 - Verify the security permission drop down
+2019-04-21 15:44:53 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 15:44:53 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 15:44:53 INFO  BaseClass:143 - Verify that user clicked on Job posting value
+2019-04-21 15:44:58 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 15:44:58 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 15:44:58 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 15:44:58 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 15:44:58 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 15:44:58 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 15:44:58 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 15:44:58 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 15:44:58 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 15:44:58 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 15:44:58 INFO  BaseClass:79 - Select User role as Technical Recruiter
+2019-04-21 15:44:58 INFO  BaseClass:158 - Verify that user role is selected from the Access control Page
+2019-04-21 15:45:30 INFO  BaseClass:175 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 15:45:32 INFO  BaseClass:175 - Verify user role from the Access control table and it is :Hiring Manager
+2019-04-21 15:45:34 INFO  BaseClass:175 - Verify user role from the Access control table and it is :Technical Recruiter
+2019-04-21 15:45:45 INFO  BaseClass:179 - Verify user clicks on edit link
+2019-04-21 15:46:01 INFO  BaseClass:190 - Verify that user is navigated to respective Field access control
+2019-04-21 15:46:01 INFO  BaseClass:194 - user is navigated to Field access control Page: Technical Recruiter
+2019-04-21 15:46:01 INFO  BaseClass:201 - Verify user clicks on Client Bill Rate/salary None Button 
+2019-04-21 15:46:02 INFO  BaseClass:77 - Close the browser
+2019-04-21 15:46:05 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 15:46:41 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 15:46:41 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 15:46:44 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 15:46:46 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 15:47:22 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 15:47:23 INFO  BaseClass:60 - Go to CEIPAL Login Page
+2019-04-21 15:47:23 INFO  BaseClass:62 - Login with Admin credentails
+2019-04-21 15:47:23 INFO  BaseClass:78 - input Username :ceipal87@gmail.com
+2019-04-21 15:47:23 INFO  BaseClass:80 - click on Next Button
+2019-04-21 15:47:24 INFO  BaseClass:84 - input Password :Admin@123#
+2019-04-21 15:47:24 INFO  BaseClass:86 - click on Sigin Button
+2019-04-21 15:47:41 INFO  BaseClass:89 - Verify that User is logged in successfully to Home Page
+2019-04-21 15:47:41 INFO  BaseClass:95 - Click on User Account
+2019-04-21 15:47:41 INFO  BaseClass:99 - Verify the User Context
+2019-04-21 15:47:42 INFO  BaseClass:101 - User Type is:Administrator
+2019-04-21 15:47:42 INFO  BaseClass:109 - Click on setup button
+2019-04-21 15:47:44 INFO  BaseClass:114 - Input the search valueaccess
+2019-04-21 15:47:45 INFO  BaseClass:118 - Click on access control link
+2019-04-21 15:47:51 INFO  BaseClass:122 - Verify the user is navigated to Access control Page
+2019-04-21 15:47:51 INFO  BaseClass:75 - Select Security Permission from the dropdown
+2019-04-21 15:47:53 INFO  BaseClass:132 - Verify the security permission drop down
+2019-04-21 15:47:53 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 15:47:53 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 15:47:53 INFO  BaseClass:143 - Verify that user clicked on Job posting value
+2019-04-21 15:47:57 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 15:47:57 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 15:47:57 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 15:47:57 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 15:47:57 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 15:47:57 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 15:47:57 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 15:47:57 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 15:47:58 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 15:47:58 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 15:47:58 INFO  BaseClass:79 - Select User role as Technical Recruiter
+2019-04-21 15:47:58 INFO  BaseClass:158 - Verify that user role is selected from the Access control Page
+2019-04-21 15:48:15 INFO  BaseClass:175 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 15:48:15 INFO  BaseClass:175 - Verify user role from the Access control table and it is :Hiring Manager
+2019-04-21 15:48:15 INFO  BaseClass:175 - Verify user role from the Access control table and it is :Technical Recruiter
+2019-04-21 15:48:15 INFO  BaseClass:179 - Verify user clicks on edit link
+2019-04-21 15:48:20 INFO  BaseClass:190 - Verify that user is navigated to respective Field access control
+2019-04-21 15:48:20 INFO  BaseClass:194 - user is navigated to Field access control Page: Technical Recruiter
+2019-04-21 15:48:20 INFO  BaseClass:201 - Verify user clicks on Client Bill Rate/salary None Button 
+2019-04-21 15:48:22 INFO  BaseClass:83 - click on signout button
+2019-04-21 15:48:22 INFO  BaseClass:230 - Click on User Account
+2019-04-21 15:48:24 INFO  BaseClass:236 - Click on SignOut button
+2019-04-21 15:48:27 INFO  BaseClass:77 - Close the browser
+2019-04-21 15:48:27 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 15:48:27 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 15:48:30 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 15:48:31 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 15:49:12 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 15:49:12 INFO  BaseClass:99 - Go to CEIPAL Login Page
+2019-04-21 15:49:12 INFO  BaseClass:101 - Login with Technical Recruiter credentails
+2019-04-21 15:49:12 INFO  BaseClass:75 - input Username :talenthire77@gmail.com
+2019-04-21 15:49:12 INFO  BaseClass:77 - click on Next Button
+2019-04-21 15:49:13 INFO  BaseClass:81 - input Password :Admin@123#
+2019-04-21 15:49:13 INFO  BaseClass:83 - click on Sigin Button
+2019-04-21 15:49:32 INFO  BaseClass:86 - Verify that User is logged in successfully to Home Page
+2019-04-21 15:49:32 INFO  BaseClass:92 - Click on User Account
+2019-04-21 15:49:32 INFO  BaseClass:96 - Verify the User Context
+2019-04-21 15:49:32 INFO  BaseClass:98 - User Type is:Technical Recruiter
+2019-04-21 15:49:32 INFO  BaseClass:111 - Go to Job Posting page and verify the pay Rate label
+2019-04-21 15:49:32 INFO  BaseClass:105 - Click on Job Posting
+2019-04-21 15:49:42 INFO  BaseClass:109 - Click on New Button
+2019-04-21 15:49:51 INFO  BaseClass:112 - Click on Create Manually
+2019-04-21 15:49:53 INFO  BaseClass:116 - Verify the Label
+2019-04-21 15:49:53 INFO  BaseClass:119 - Verify the Label and the label is :Pay Rate/Salary
+2019-04-21 15:49:53 INFO  BaseClass:77 - Close the browser
+2019-04-21 15:49:56 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 15:54:22 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 15:54:22 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 15:54:26 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 15:54:27 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 15:55:05 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 15:55:06 INFO  BaseClass:60 - Go to CEIPAL Login Page
+2019-04-21 15:55:06 INFO  BaseClass:62 - Login with Admin credentails
+2019-04-21 15:55:06 INFO  BaseClass:78 - input Username :ceipal87@gmail.com
+2019-04-21 15:55:06 INFO  BaseClass:80 - click on Next Button
+2019-04-21 15:55:07 INFO  BaseClass:84 - input Password :Admin@123#
+2019-04-21 15:55:07 INFO  BaseClass:86 - click on Sigin Button
+2019-04-21 15:55:21 INFO  BaseClass:89 - Verify that User is logged in successfully to Home Page
+2019-04-21 15:55:21 INFO  BaseClass:95 - Click on User Account
+2019-04-21 15:55:22 INFO  BaseClass:99 - Verify the User Context
+2019-04-21 15:55:22 INFO  BaseClass:101 - User Type is:Administrator
+2019-04-21 15:55:22 INFO  BaseClass:109 - Click on setup button
+2019-04-21 15:55:25 INFO  BaseClass:114 - Input the search valueaccess
+2019-04-21 15:55:25 INFO  BaseClass:118 - Click on access control link
+2019-04-21 15:55:30 INFO  BaseClass:122 - Verify the user is navigated to Access control Page
+2019-04-21 15:55:30 INFO  BaseClass:75 - Select Security Permission from the dropdown
+2019-04-21 15:55:30 INFO  BaseClass:132 - Verify the security permission drop down
+2019-04-21 15:55:30 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 15:55:30 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 15:55:30 INFO  BaseClass:143 - Verify that user clicked on Job posting value
+2019-04-21 15:55:33 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 15:55:33 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 15:55:33 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 15:55:33 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 15:55:33 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 15:55:33 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 15:55:33 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 15:55:33 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 15:55:33 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 15:55:33 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 15:55:33 INFO  BaseClass:79 - Select User role as Technical Recruiter
+2019-04-21 15:55:33 INFO  BaseClass:158 - Verify that user role is selected from the Access control Page
+2019-04-21 15:55:58 INFO  BaseClass:175 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 15:55:58 INFO  BaseClass:175 - Verify user role from the Access control table and it is :Hiring Manager
+2019-04-21 15:55:58 INFO  BaseClass:175 - Verify user role from the Access control table and it is :Technical Recruiter
+2019-04-21 15:55:58 INFO  BaseClass:175 - Verify user role from the Access control table and it is :Test Role
+2019-04-21 15:55:58 INFO  BaseClass:175 - Verify user role from the Access control table and it is :Clone Role
+2019-04-21 15:55:58 INFO  BaseClass:179 - Verify user clicks on edit link
+2019-04-21 15:56:03 INFO  BaseClass:190 - Verify that user is navigated to respective Field access control
+2019-04-21 15:56:04 INFO  BaseClass:194 - user is navigated to Field access control Page: CEO
+2019-04-21 15:56:04 INFO  BaseClass:201 - Verify user clicks on Client Bill Rate/salary None Button 
+2019-04-21 15:56:05 INFO  BaseClass:83 - click on signout button
+2019-04-21 15:56:05 INFO  BaseClass:230 - Click on User Account
+2019-04-21 15:56:07 INFO  BaseClass:236 - Click on SignOut button
+2019-04-21 15:56:31 INFO  BaseClass:77 - Close the browser
+2019-04-21 15:56:33 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 15:58:32 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 15:58:32 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 15:58:36 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 15:58:37 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 15:59:13 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 15:59:14 INFO  BaseClass:60 - Go to CEIPAL Login Page
+2019-04-21 15:59:14 INFO  BaseClass:62 - Login with Admin credentails
+2019-04-21 15:59:14 INFO  BaseClass:78 - input Username :ceipal87@gmail.com
+2019-04-21 15:59:14 INFO  BaseClass:80 - click on Next Button
+2019-04-21 15:59:15 INFO  BaseClass:84 - input Password :Admin@123#
+2019-04-21 15:59:15 INFO  BaseClass:86 - click on Sigin Button
+2019-04-21 15:59:35 INFO  BaseClass:89 - Verify that User is logged in successfully to Home Page
+2019-04-21 15:59:35 INFO  BaseClass:95 - Click on User Account
+2019-04-21 15:59:36 INFO  BaseClass:99 - Verify the User Context
+2019-04-21 15:59:36 INFO  BaseClass:101 - User Type is:Administrator
+2019-04-21 15:59:36 INFO  BaseClass:109 - Click on setup button
+2019-04-21 15:59:39 INFO  BaseClass:114 - Input the search valueaccess
+2019-04-21 15:59:40 INFO  BaseClass:118 - Click on access control link
+2019-04-21 15:59:46 INFO  BaseClass:122 - Verify the user is navigated to Access control Page
+2019-04-21 15:59:46 INFO  BaseClass:75 - Select Security Permission from the dropdown
+2019-04-21 15:59:48 INFO  BaseClass:132 - Verify the security permission drop down
+2019-04-21 15:59:48 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 15:59:48 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 15:59:48 INFO  BaseClass:143 - Verify that user clicked on Job posting value
+2019-04-21 15:59:53 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 15:59:53 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 15:59:53 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 15:59:53 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 15:59:53 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 15:59:53 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 15:59:53 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 15:59:53 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 15:59:53 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 15:59:53 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 15:59:53 INFO  BaseClass:79 - Select User role as Technical Recruiter
+2019-04-21 15:59:53 INFO  BaseClass:158 - Verify that user role is selected from the Access control Page
+2019-04-21 16:00:06 INFO  BaseClass:175 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 16:00:06 INFO  BaseClass:175 - Verify user role from the Access control table and it is :Hiring Manager
+2019-04-21 16:00:06 INFO  BaseClass:179 - Verify user clicks on edit link
+2019-04-21 16:00:11 INFO  BaseClass:190 - Verify that user is navigated to respective Field access control
+2019-04-21 16:00:11 INFO  BaseClass:194 - user is navigated to Field access control Page: HR Manager
+2019-04-21 16:00:12 INFO  BaseClass:201 - Verify user clicks on Client Bill Rate/salary None Button 
+2019-04-21 16:00:14 INFO  BaseClass:83 - click on signout button
+2019-04-21 16:00:14 INFO  BaseClass:230 - Click on User Account
+2019-04-21 16:00:16 INFO  BaseClass:236 - Click on SignOut button
+2019-04-21 16:00:20 INFO  BaseClass:77 - Close the browser
+2019-04-21 16:00:20 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 16:01:57 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 16:01:57 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 16:02:01 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 16:02:02 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 16:02:45 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 16:02:46 INFO  BaseClass:60 - Go to CEIPAL Login Page
+2019-04-21 16:02:46 INFO  BaseClass:62 - Login with Admin credentails
+2019-04-21 16:02:46 INFO  BaseClass:78 - input Username :ceipal87@gmail.com
+2019-04-21 16:02:46 INFO  BaseClass:80 - click on Next Button
+2019-04-21 16:02:47 INFO  BaseClass:84 - input Password :Admin@123#
+2019-04-21 16:02:47 INFO  BaseClass:86 - click on Sigin Button
+2019-04-21 16:03:11 INFO  BaseClass:89 - Verify that User is logged in successfully to Home Page
+2019-04-21 16:03:11 INFO  BaseClass:95 - Click on User Account
+2019-04-21 16:03:12 INFO  BaseClass:99 - Verify the User Context
+2019-04-21 16:03:12 INFO  BaseClass:101 - User Type is:Administrator
+2019-04-21 16:03:12 INFO  BaseClass:109 - Click on setup button
+2019-04-21 16:03:15 INFO  BaseClass:114 - Input the search valueaccess
+2019-04-21 16:03:16 INFO  BaseClass:118 - Click on access control link
+2019-04-21 16:03:20 INFO  BaseClass:122 - Verify the user is navigated to Access control Page
+2019-04-21 16:03:20 INFO  BaseClass:75 - Select Security Permission from the dropdown
+2019-04-21 16:03:22 INFO  BaseClass:132 - Verify the security permission drop down
+2019-04-21 16:03:22 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 16:03:22 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 16:03:22 INFO  BaseClass:143 - Verify that user clicked on Job posting value
+2019-04-21 16:03:26 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 16:03:26 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 16:03:26 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 16:03:26 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 16:03:26 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 16:03:26 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 16:03:26 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 16:03:26 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 16:03:26 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 16:03:26 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 16:03:26 INFO  BaseClass:79 - Select User role as Technical Recruiter
+2019-04-21 16:03:26 INFO  BaseClass:158 - Verify that user role is selected from the Access control Page
+2019-04-21 16:04:04 INFO  BaseClass:175 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 16:04:04 INFO  BaseClass:175 - Verify user role from the Access control table and it is :Hiring Manager
+2019-04-21 16:04:04 INFO  BaseClass:175 - Verify user role from the Access control table and it is :Technical Recruiter
+2019-04-21 16:04:05 INFO  BaseClass:175 - Verify user role from the Access control table and it is :Test Role
+2019-04-21 16:04:05 INFO  BaseClass:175 - Verify user role from the Access control table and it is :Clone Role
+2019-04-21 16:04:05 INFO  BaseClass:175 - Verify user role from the Access control table and it is :CEO
+2019-04-21 16:04:05 INFO  BaseClass:175 - Verify user role from the Access control table and it is :CSO
+2019-04-21 16:04:05 INFO  BaseClass:175 - Verify user role from the Access control table and it is :VP
+2019-04-21 16:04:05 INFO  BaseClass:179 - Verify user clicks on edit link
+2019-04-21 16:04:12 INFO  BaseClass:191 - Verify that user is navigated to respective Field access control
+2019-04-21 16:04:12 INFO  BaseClass:195 - user is navigated to Field access control Page: Tech Head 
+2019-04-21 16:04:12 INFO  BaseClass:202 - Verify user clicks on Client Bill Rate/salary None Button 
+2019-04-21 16:04:14 INFO  BaseClass:83 - click on signout button
+2019-04-21 16:04:14 INFO  BaseClass:231 - Click on User Account
+2019-04-21 16:04:17 INFO  BaseClass:237 - Click on SignOut button
+2019-04-21 16:04:19 INFO  BaseClass:77 - Close the browser
+2019-04-21 16:04:20 INFO  BaseClass:79 - **************End of Test Case****************
+2019-04-21 16:04:43 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 16:04:43 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 16:04:47 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 16:04:48 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 16:05:36 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 16:05:36 INFO  BaseClass:60 - Go to CEIPAL Login Page
+2019-04-21 16:05:36 INFO  BaseClass:62 - Login with Admin credentails
+2019-04-21 16:05:36 INFO  BaseClass:78 - input Username :ceipal87@gmail.com
+2019-04-21 16:05:37 INFO  BaseClass:80 - click on Next Button
+2019-04-21 16:05:37 INFO  BaseClass:84 - input Password :Admin@123#
+2019-04-21 16:05:38 INFO  BaseClass:86 - click on Sigin Button
+2019-04-21 16:05:58 INFO  BaseClass:89 - Verify that User is logged in successfully to Home Page
+2019-04-21 16:05:58 INFO  BaseClass:95 - Click on User Account
+2019-04-21 16:05:58 INFO  BaseClass:99 - Verify the User Context
+2019-04-21 16:05:58 INFO  BaseClass:101 - User Type is:Administrator
+2019-04-21 16:05:58 INFO  BaseClass:109 - Click on setup button
+2019-04-21 16:06:01 INFO  BaseClass:114 - Input the search valueaccess
+2019-04-21 16:06:02 INFO  BaseClass:118 - Click on access control link
+2019-04-21 16:06:05 INFO  BaseClass:122 - Verify the user is navigated to Access control Page
+2019-04-21 16:06:05 INFO  BaseClass:75 - Select Security Permission from the dropdown
+2019-04-21 16:06:07 INFO  BaseClass:132 - Verify the security permission drop down
+2019-04-21 16:06:07 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 16:06:07 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 16:06:07 INFO  BaseClass:143 - Verify that user clicked on Job posting value
+2019-04-21 16:06:11 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 16:06:11 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 16:06:11 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 16:06:11 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 16:06:11 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 16:06:11 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 16:06:11 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 16:06:11 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 16:06:11 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 16:06:11 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 16:06:11 INFO  BaseClass:79 - Select User role as Technical Recruiter
+2019-04-21 16:06:11 INFO  BaseClass:158 - Verify that user role is selected from the Access control Page
+2019-04-21 16:07:11 INFO  BaseClass:175 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 16:07:25 INFO  BaseClass:175 - Verify user role from the Access control table and it is :Hiring Manager
+2019-04-21 16:07:26 INFO  BaseClass:175 - Verify user role from the Access control table and it is :Technical Recruiter
+2019-04-21 16:07:28 INFO  BaseClass:175 - Verify user role from the Access control table and it is :Test Role
+2019-04-21 16:07:29 INFO  BaseClass:175 - Verify user role from the Access control table and it is :Clone Role
+2019-04-21 16:07:30 INFO  BaseClass:175 - Verify user role from the Access control table and it is :CEO
+2019-04-21 16:07:31 INFO  BaseClass:175 - Verify user role from the Access control table and it is :CSO
+2019-04-21 16:07:33 INFO  BaseClass:175 - Verify user role from the Access control table and it is :VP
+2019-04-21 16:08:04 INFO  BaseClass:179 - Verify user clicks on edit link
+2019-04-21 16:10:38 INFO  BaseClass:36 - *****************Start of Test case**********************
+2019-04-21 16:10:38 INFO  BaseClass:52 - Launch the chrome Browser
+2019-04-21 16:10:42 INFO  BaseClass:54 - Maximize the browser
+2019-04-21 16:10:43 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2019-04-21 16:11:35 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL Talenthire:Sign In - CEIPAL Talenthire
+2019-04-21 16:11:36 INFO  BaseClass:60 - Go to CEIPAL Login Page
+2019-04-21 16:11:36 INFO  BaseClass:62 - Login with Admin credentails
+2019-04-21 16:11:36 INFO  BaseClass:78 - input Username :ceipal87@gmail.com
+2019-04-21 16:11:36 INFO  BaseClass:80 - click on Next Button
+2019-04-21 16:11:37 INFO  BaseClass:84 - input Password :Admin@123#
+2019-04-21 16:11:37 INFO  BaseClass:86 - click on Sigin Button
+2019-04-21 16:11:58 INFO  BaseClass:89 - Verify that User is logged in successfully to Home Page
+2019-04-21 16:11:58 INFO  BaseClass:95 - Click on User Account
+2019-04-21 16:11:59 INFO  BaseClass:99 - Verify the User Context
+2019-04-21 16:11:59 INFO  BaseClass:101 - User Type is:Administrator
+2019-04-21 16:11:59 INFO  BaseClass:109 - Click on setup button
+2019-04-21 16:12:03 INFO  BaseClass:114 - Input the search valueaccess
+2019-04-21 16:12:03 INFO  BaseClass:118 - Click on access control link
+2019-04-21 16:12:11 INFO  BaseClass:122 - Verify the user is navigated to Access control Page
+2019-04-21 16:12:11 INFO  BaseClass:75 - Select Security Permission from the dropdown
+2019-04-21 16:12:11 INFO  BaseClass:132 - Verify the security permission drop down
+2019-04-21 16:12:11 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Requisition
+2019-04-21 16:12:11 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Posting
+2019-04-21 16:12:11 INFO  BaseClass:143 - Verify that user clicked on Job posting value
+2019-04-21 16:12:14 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Applicants
+2019-04-21 16:12:14 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Vendors
+2019-04-21 16:12:14 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Job Templates
+2019-04-21 16:12:14 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:eBoarding
+2019-04-21 16:12:14 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Evaluation Templates
+2019-04-21 16:12:14 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Employment Tests
+2019-04-21 16:12:14 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Talent Bench
+2019-04-21 16:12:14 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Clients
+2019-04-21 16:12:14 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Placements
+2019-04-21 16:12:14 INFO  BaseClass:140 - Verify that user is selected a value from drop down and it is:Leads
+2019-04-21 16:12:14 INFO  BaseClass:79 - Select User role as Technical Recruiter
+2019-04-21 16:12:14 INFO  BaseClass:158 - Verify that user role is selected from the Access control Page
+2019-04-21 16:12:55 INFO  BaseClass:175 - Verify user role from the Access control table and it is :HR Manager
+2019-04-21 16:12:57 INFO  BaseClass:175 - Verify user role from the Access control table and it is :Hiring Manager
+2019-04-21 16:12:58 INFO  BaseClass:175 - Verify user role from the Access control table and it is :Technical Recruiter
+2019-04-21 16:12:59 INFO  BaseClass:175 - Verify user role from the Access control table and it is :Test Role
+2019-04-21 16:13:00 INFO  BaseClass:175 - Verify user role from the Access control table and it is :Clone Role
+2019-04-21 16:13:01 INFO  BaseClass:175 - Verify user role from the Access control table and it is :CEO
+2019-04-21 16:13:02 INFO  BaseClass:175 - Verify user role from the Access control table and it is :CSO
+2019-04-21 16:13:03 INFO  BaseClass:175 - Verify user role from the Access control table and it is :VP
+2019-04-21 16:13:04 INFO  BaseClass:179 - Verify user clicks on edit link
+2020-04-02 11:50:10 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-02 11:50:10 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-02 11:50:19 INFO  BaseClass:54 - Maximize the browser
+2020-04-02 11:50:23 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2020-04-02 11:50:29 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL TalentHire:Sign In - CEIPAL Talenthire
+2020-04-09 23:56:13 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-09 23:56:13 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-09 23:56:20 INFO  BaseClass:54 - Maximize the browser
+2020-04-09 23:56:24 INFO  BaseClass:58 - Input the URLhttps://talenthirecls4.ceipal.com/signin
+2020-04-09 23:56:30 INFO  BaseClass:61 - compare the result:Sign In - CEIPAL TalentHire:Sign In - CEIPAL Talenthire
+2020-04-09 23:59:41 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-09 23:59:41 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-09 23:59:47 INFO  BaseClass:54 - Maximize the browser
+2020-04-09 23:59:51 INFO  BaseClass:77 - Close the browser
+2020-04-09 23:59:51 INFO  BaseClass:79 - **************End of Test Case****************
+2020-04-09 23:59:51 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-09 23:59:57 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 00:00:07 INFO  BaseClass:77 - Close the browser
+2020-04-10 00:00:11 INFO  BaseClass:79 - **************End of Test Case****************
+2020-04-10 00:00:11 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 00:00:17 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 00:01:21 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-10 00:01:21 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 00:01:28 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 00:01:36 INFO  BaseClass:77 - Close the browser
+2020-04-10 00:01:40 INFO  BaseClass:79 - **************End of Test Case****************
+2020-04-10 00:01:40 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 00:01:45 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 00:01:55 INFO  BaseClass:77 - Close the browser
+2020-04-10 00:02:00 INFO  BaseClass:79 - **************End of Test Case****************
+2020-04-10 00:02:00 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 00:02:05 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 00:02:14 INFO  BaseClass:77 - Close the browser
+2020-04-10 00:02:18 INFO  BaseClass:79 - **************End of Test Case****************
+2020-04-10 00:02:18 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 00:02:23 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 00:02:27 INFO  BaseClass:77 - Close the browser
+2020-04-10 00:02:32 INFO  BaseClass:79 - **************End of Test Case****************
+2020-04-10 00:02:32 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 00:02:37 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 00:02:45 INFO  BaseClass:77 - Close the browser
+2020-04-10 00:06:56 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-10 00:06:56 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 00:07:03 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 00:07:11 INFO  BaseClass:77 - Close the browser
+2020-04-10 00:07:15 INFO  BaseClass:79 - **************End of Test Case****************
+2020-04-10 00:07:15 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 00:07:20 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 00:07:30 INFO  BaseClass:77 - Close the browser
+2020-04-10 00:07:34 INFO  BaseClass:79 - **************End of Test Case****************
+2020-04-10 00:07:34 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 00:07:39 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 00:07:49 INFO  BaseClass:77 - Close the browser
+2020-04-10 00:07:53 INFO  BaseClass:79 - **************End of Test Case****************
+2020-04-10 00:07:53 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 00:07:58 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 00:08:02 INFO  BaseClass:77 - Close the browser
+2020-04-10 00:08:03 INFO  BaseClass:79 - **************End of Test Case****************
+2020-04-10 00:08:03 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 00:08:08 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 00:08:15 INFO  BaseClass:77 - Close the browser
+2020-04-10 00:09:54 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-10 00:09:54 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 00:10:00 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 00:10:08 INFO  BaseClass:77 - Close the browser
+2020-04-10 00:10:13 INFO  BaseClass:79 - **************End of Test Case****************
+2020-04-10 00:10:13 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 00:10:18 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 00:10:28 INFO  BaseClass:77 - Close the browser
+2020-04-10 00:10:32 INFO  BaseClass:79 - **************End of Test Case****************
+2020-04-10 00:10:32 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 00:10:37 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 00:10:46 INFO  BaseClass:77 - Close the browser
+2020-04-10 00:10:50 INFO  BaseClass:79 - **************End of Test Case****************
+2020-04-10 00:10:50 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 00:10:55 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 00:10:59 INFO  BaseClass:77 - Close the browser
+2020-04-10 00:10:59 INFO  BaseClass:79 - **************End of Test Case****************
+2020-04-10 00:10:59 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 00:11:05 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 00:11:12 INFO  BaseClass:77 - Close the browser
+2020-04-10 00:12:32 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-10 00:12:32 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 00:12:38 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 00:12:50 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 00:12:56 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 00:13:09 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 00:13:15 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 00:13:28 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 00:13:33 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 00:13:37 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 00:13:42 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 00:13:54 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 00:13:59 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 11:14:20 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-10 11:14:21 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 11:14:27 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 11:17:38 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-10 11:17:38 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 11:17:44 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 12:55:43 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-10 12:55:44 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 12:55:50 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 12:56:46 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-10 12:56:46 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 12:56:52 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 15:19:42 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-10 15:19:42 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 15:19:48 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 15:20:04 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 15:20:09 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 15:20:24 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 15:20:29 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 15:20:43 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 15:20:48 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 15:20:52 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 15:20:58 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 15:21:15 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 15:21:20 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 15:21:28 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 15:21:34 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 15:24:00 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-10 15:24:00 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 15:24:06 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 15:24:18 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 15:24:24 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 15:24:51 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 15:24:56 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 15:25:09 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 15:25:14 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 15:25:18 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 15:25:24 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 15:25:37 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 15:25:43 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 15:25:54 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 15:25:59 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 23:05:14 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-10 23:05:15 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 23:05:20 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 23:05:42 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-10 23:05:42 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 23:05:48 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 23:06:17 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-10 23:06:17 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 23:06:23 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 23:06:46 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-10 23:06:46 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 23:06:52 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 23:10:43 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-10 23:10:43 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 23:10:49 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 23:11:18 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-10 23:11:18 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 23:11:24 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 23:17:03 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-10 23:17:03 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 23:17:09 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 23:17:51 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-10 23:17:51 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 23:17:57 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 23:23:57 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-10 23:23:57 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 23:24:03 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 23:26:00 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-10 23:26:00 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 23:26:06 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 23:29:12 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-10 23:29:12 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 23:29:18 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 23:29:54 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-10 23:29:54 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 23:29:59 INFO  BaseClass:54 - Maximize the browser
+2020-04-10 23:30:40 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-10 23:30:40 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-10 23:30:45 INFO  BaseClass:54 - Maximize the browser
+2020-04-11 11:30:43 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-11 11:30:43 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-11 11:30:50 INFO  BaseClass:54 - Maximize the browser
+2020-04-11 11:43:03 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-11 11:43:03 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-11 11:43:09 INFO  BaseClass:54 - Maximize the browser
+2020-04-11 11:46:11 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-11 11:46:12 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-11 11:46:18 INFO  BaseClass:54 - Maximize the browser
+2020-04-11 11:47:33 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-11 11:47:33 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-11 11:47:39 INFO  BaseClass:54 - Maximize the browser
+2020-04-12 10:57:14 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-12 10:57:15 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-12 10:57:20 INFO  BaseClass:54 - Maximize the browser
+2020-04-12 11:01:18 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-12 11:01:19 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-12 11:01:24 INFO  BaseClass:54 - Maximize the browser
+2020-04-12 12:06:39 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-12 12:06:40 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-12 12:06:46 INFO  BaseClass:54 - Maximize the browser
+2020-04-13 09:09:49 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-13 09:09:49 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-13 09:09:55 INFO  BaseClass:54 - Maximize the browser
+2020-04-13 09:10:27 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-13 09:10:27 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-13 09:10:33 INFO  BaseClass:54 - Maximize the browser
+2020-04-13 09:11:05 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-13 09:11:05 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-13 09:11:11 INFO  BaseClass:54 - Maximize the browser
+2020-04-13 09:16:35 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-13 09:16:35 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-13 09:16:41 INFO  BaseClass:54 - Maximize the browser
+2020-04-13 11:49:19 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-13 11:49:20 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-13 11:49:26 INFO  BaseClass:54 - Maximize the browser
+2020-04-13 11:57:45 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-13 11:57:46 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-13 11:57:52 INFO  BaseClass:54 - Maximize the browser
+2020-04-13 12:00:54 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-13 12:00:54 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-13 12:01:01 INFO  BaseClass:54 - Maximize the browser
+2020-04-13 12:04:51 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-13 12:04:51 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-13 12:04:58 INFO  BaseClass:54 - Maximize the browser
+2020-04-13 12:05:31 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-13 12:05:32 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-13 12:05:40 INFO  BaseClass:54 - Maximize the browser
+2020-04-15 23:18:11 INFO  BaseClass:36 - *****************Start of Test case**********************
+2020-04-15 23:18:11 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-15 23:18:19 INFO  BaseClass:54 - Maximize the browser
+2020-04-15 23:18:26 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-15 23:18:31 INFO  BaseClass:54 - Maximize the browser
+2020-04-15 23:18:49 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-15 23:18:54 INFO  BaseClass:54 - Maximize the browser
+2020-04-15 23:19:08 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-15 23:19:13 INFO  BaseClass:54 - Maximize the browser
+2020-04-15 23:19:27 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-15 23:19:32 INFO  BaseClass:54 - Maximize the browser
+2020-04-15 23:19:47 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-15 23:19:52 INFO  BaseClass:54 - Maximize the browser
+2020-04-15 23:20:05 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-15 23:20:10 INFO  BaseClass:54 - Maximize the browser
+2020-04-15 23:20:15 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-15 23:20:20 INFO  BaseClass:54 - Maximize the browser
+2020-04-15 23:20:39 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-15 23:20:44 INFO  BaseClass:54 - Maximize the browser
+2020-04-15 23:20:51 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-15 23:20:57 INFO  BaseClass:54 - Maximize the browser
+2020-04-15 23:21:10 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-15 23:21:15 INFO  BaseClass:54 - Maximize the browser
+2020-04-15 23:21:23 INFO  BaseClass:52 - Launch the chrome Browser
+2020-04-15 23:21:28 INFO  BaseClass:54 - Maximize the browser

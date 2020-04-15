@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="11" total="12" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21460" started-at="2020-04-13T06:35:31Z" finished-at="2020-04-13T06:35:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21460" started-at="2020-04-13T06:35:31Z" finished-at="2020-04-13T06:35:53Z">
+      <class name="com.TestScripts.TestScripts">
+        <test-method status="PASS" signature="getLogger()[pri:0, instance:com.TestScripts.TestScripts@60611244]" name="getLogger" is-config="true" duration-ms="199" started-at="2020-04-13T06:35:31Z" finished-at="2020-04-13T06:35:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLogger -->
+        <test-method status="PASS" signature="startReport()[pri:0, instance:com.TestScripts.TestScripts@60611244]" name="startReport" is-config="true" duration-ms="311" started-at="2020-04-13T06:35:31Z" finished-at="2020-04-13T06:35:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="initializer()[pri:0, instance:com.TestScripts.TestScripts@60611244]" name="initializer" is-config="true" duration-ms="12448" started-at="2020-04-13T06:35:32Z" finished-at="2020-04-13T06:35:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializer -->
+        <test-method status="PASS" signature="TC12_IRCTC_alert()[pri:0, instance:com.TestScripts.TestScripts@60611244]" name="TC12_IRCTC_alert" duration-ms="7110" started-at="2020-04-13T06:35:44Z" finished-at="2020-04-13T06:35:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC12_IRCTC_alert -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.TestScripts.TestScripts@60611244]" name="endReport" is-config="true" duration-ms="1326" started-at="2020-04-13T06:35:51Z" finished-at="2020-04-13T06:35:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.TestScripts.TestScripts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

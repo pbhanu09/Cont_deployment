@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="214345" started-at="2020-04-15T17:48:11Z" finished-at="2020-04-15T17:51:45Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="214345" started-at="2020-04-15T17:48:11Z" finished-at="2020-04-15T17:51:45Z">
+      <class name="com.TestScripts.TestScripts">
+        <test-method status="PASS" signature="getLogger()[pri:0, instance:com.TestScripts.TestScripts@7c0e2abd]" name="getLogger" is-config="true" duration-ms="95" started-at="2020-04-15T17:48:11Z" finished-at="2020-04-15T17:48:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLogger -->
+        <test-method status="PASS" signature="startReport()[pri:0, instance:com.TestScripts.TestScripts@7c0e2abd]" name="startReport" is-config="true" duration-ms="183" started-at="2020-04-15T17:48:11Z" finished-at="2020-04-15T17:48:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="initializer()[pri:0, instance:com.TestScripts.TestScripts@7c0e2abd]" name="initializer" is-config="true" duration-ms="11647" started-at="2020-04-15T17:48:11Z" finished-at="2020-04-15T17:48:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializer -->
+        <test-method status="PASS" signature="TC10_WebTable()[pri:0, instance:com.TestScripts.TestScripts@7c0e2abd]" name="TC10_WebTable" duration-ms="2893" started-at="2020-04-15T17:48:23Z" finished-at="2020-04-15T17:48:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC10_WebTable -->
+        <test-method status="PASS" signature="initializer()[pri:0, instance:com.TestScripts.TestScripts@7c0e2abd]" name="initializer" is-config="true" duration-ms="9349" started-at="2020-04-15T17:48:26Z" finished-at="2020-04-15T17:48:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializer -->
+        <test-method status="PASS" signature="TC11_Actions()[pri:0, instance:com.TestScripts.TestScripts@7c0e2abd]" name="TC11_Actions" duration-ms="13725" started-at="2020-04-15T17:48:35Z" finished-at="2020-04-15T17:48:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC11_Actions -->
+        <test-method status="PASS" signature="initializer()[pri:0, instance:com.TestScripts.TestScripts@7c0e2abd]" name="initializer" is-config="true" duration-ms="9822" started-at="2020-04-15T17:48:49Z" finished-at="2020-04-15T17:48:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializer -->
+        <test-method status="PASS" signature="TC12_IRCTC_alert()[pri:0, instance:com.TestScripts.TestScripts@7c0e2abd]" name="TC12_IRCTC_alert" duration-ms="9344" started-at="2020-04-15T17:48:59Z" finished-at="2020-04-15T17:49:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC12_IRCTC_alert -->
+        <test-method status="PASS" signature="initializer()[pri:0, instance:com.TestScripts.TestScripts@7c0e2abd]" name="initializer" is-config="true" duration-ms="9458" started-at="2020-04-15T17:49:08Z" finished-at="2020-04-15T17:49:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializer -->
+        <test-method status="PASS" signature="TC3_textbox_radioButton()[pri:0, instance:com.TestScripts.TestScripts@7c0e2abd]" name="TC3_textbox_radioButton" duration-ms="9663" started-at="2020-04-15T17:49:17Z" finished-at="2020-04-15T17:49:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC3_textbox_radioButton -->
+        <test-method status="PASS" signature="initializer()[pri:0, instance:com.TestScripts.TestScripts@7c0e2abd]" name="initializer" is-config="true" duration-ms="9367" started-at="2020-04-15T17:49:27Z" finished-at="2020-04-15T17:49:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializer -->
+        <test-method status="PASS" signature="TC4_dropdown()[pri:0, instance:com.TestScripts.TestScripts@7c0e2abd]" name="TC4_dropdown" duration-ms="10701" started-at="2020-04-15T17:49:36Z" finished-at="2020-04-15T17:49:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC4_dropdown -->
+        <test-method status="PASS" signature="initializer()[pri:0, instance:com.TestScripts.TestScripts@7c0e2abd]" name="initializer" is-config="true" duration-ms="9364" started-at="2020-04-15T17:49:47Z" finished-at="2020-04-15T17:49:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializer -->
+        <test-method status="PASS" signature="TC5_AllLinks()[pri:0, instance:com.TestScripts.TestScripts@7c0e2abd]" name="TC5_AllLinks" duration-ms="8626" started-at="2020-04-15T17:49:56Z" finished-at="2020-04-15T17:50:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC5_AllLinks -->
+        <test-method status="PASS" signature="initializer()[pri:0, instance:com.TestScripts.TestScripts@7c0e2abd]" name="initializer" is-config="true" duration-ms="9484" started-at="2020-04-15T17:50:05Z" finished-at="2020-04-15T17:50:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializer -->
+        <test-method status="PASS" signature="TC6_list()[pri:0, instance:com.TestScripts.TestScripts@7c0e2abd]" name="TC6_list" duration-ms="0" started-at="2020-04-15T17:50:15Z" finished-at="2020-04-15T17:50:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC6_list -->
+        <test-method status="PASS" signature="initializer()[pri:0, instance:com.TestScripts.TestScripts@7c0e2abd]" name="initializer" is-config="true" duration-ms="9476" started-at="2020-04-15T17:50:15Z" finished-at="2020-04-15T17:50:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializer -->
+        <test-method status="PASS" signature="TC7_multipleWindow()[pri:0, instance:com.TestScripts.TestScripts@7c0e2abd]" name="TC7_multipleWindow" duration-ms="14676" started-at="2020-04-15T17:50:24Z" finished-at="2020-04-15T17:50:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC7_multipleWindow -->
+        <test-method status="PASS" signature="initializer()[pri:0, instance:com.TestScripts.TestScripts@7c0e2abd]" name="initializer" is-config="true" duration-ms="9451" started-at="2020-04-15T17:50:39Z" finished-at="2020-04-15T17:50:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializer -->
+        <test-method status="PASS" signature="TC8_Alert()[pri:0, instance:com.TestScripts.TestScripts@7c0e2abd]" name="TC8_Alert" duration-ms="3274" started-at="2020-04-15T17:50:48Z" finished-at="2020-04-15T17:50:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC8_Alert -->
+        <test-method status="PASS" signature="initializer()[pri:0, instance:com.TestScripts.TestScripts@7c0e2abd]" name="initializer" is-config="true" duration-ms="10252" started-at="2020-04-15T17:50:51Z" finished-at="2020-04-15T17:51:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializer -->
+        <test-method status="PASS" signature="TC9_Facebook_MN_EMID()[pri:0, instance:com.TestScripts.TestScripts@7c0e2abd]" name="TC9_Facebook_MN_EMID" duration-ms="8309" started-at="2020-04-15T17:51:02Z" finished-at="2020-04-15T17:51:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC9_Facebook_MN_EMID -->
+        <test-method status="PASS" signature="initializer()[pri:0, instance:com.TestScripts.TestScripts@7c0e2abd]" name="initializer" is-config="true" duration-ms="9613" started-at="2020-04-15T17:51:10Z" finished-at="2020-04-15T17:51:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializer -->
+        <test-method status="PASS" signature="Tc1()[pri:0, instance:com.TestScripts.TestScripts@7c0e2abd]" name="Tc1" duration-ms="3264" started-at="2020-04-15T17:51:20Z" finished-at="2020-04-15T17:51:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc1 -->
+        <test-method status="PASS" signature="initializer()[pri:0, instance:com.TestScripts.TestScripts@7c0e2abd]" name="initializer" is-config="true" duration-ms="9606" started-at="2020-04-15T17:51:23Z" finished-at="2020-04-15T17:51:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializer -->
+        <test-method status="PASS" signature="TestCase2()[pri:0, instance:com.TestScripts.TestScripts@7c0e2abd]" name="TestCase2" duration-ms="11976" started-at="2020-04-15T17:51:32Z" finished-at="2020-04-15T17:51:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase2 -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.TestScripts.TestScripts@7c0e2abd]" name="endReport" is-config="true" duration-ms="601" started-at="2020-04-15T17:51:45Z" finished-at="2020-04-15T17:51:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.TestScripts.TestScripts -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
