@@ -71,7 +71,7 @@ public class TestScripts extends BaseClass
 		
 	}
 
-	@Test(enabled=true)
+	@Test(enabled=false)
 	public void TC3_textbox_radioButton()
 	{
 		driver.manage().window().maximize();
